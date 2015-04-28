@@ -2,6 +2,7 @@
 Multi-Sentence Compression - Reranking use Frequent Words
 
 Programming language: Python 3.4.2
+
 IDE: PyCharm 4
 
 Contains 2 sub-projects:
