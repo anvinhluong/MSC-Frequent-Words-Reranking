@@ -1,0 +1,1497 @@
+<ROUGE-EVAL version="1.0">
+	<EVAL ID="1">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_101_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_101_1</M>
+			<M ID="M2">n/cluster_101_1</M>
+			<M ID="M3">g/cluster_101_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="2">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_101_5</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_101_5</M>
+			<M ID="M2">n/cluster_101_5</M>
+			<M ID="M3">g/cluster_101_5</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="3">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_101_6</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_101_6</M>
+			<M ID="M2">n/cluster_101_6</M>
+			<M ID="M3">g/cluster_101_6</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="4">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_102_2</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_102_2</M>
+			<M ID="M2">n/cluster_102_2</M>
+			<M ID="M3">g/cluster_102_2</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="5">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_104_2</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_104_2</M>
+			<M ID="M2">n/cluster_104_2</M>
+			<M ID="M3">g/cluster_104_2</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="6">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_108_2</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_108_2</M>
+			<M ID="M2">n/cluster_108_2</M>
+			<M ID="M3">g/cluster_108_2</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="7">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_108_4</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_108_4</M>
+			<M ID="M2">n/cluster_108_4</M>
+			<M ID="M3">g/cluster_108_4</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="8">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_108_5</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_108_5</M>
+			<M ID="M2">n/cluster_108_5</M>
+			<M ID="M3">g/cluster_108_5</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="9">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_109_3</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_109_3</M>
+			<M ID="M2">n/cluster_109_3</M>
+			<M ID="M3">g/cluster_109_3</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="10">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_10_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_10_1</M>
+			<M ID="M2">n/cluster_10_1</M>
+			<M ID="M3">g/cluster_10_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="11">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_10_2</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_10_2</M>
+			<M ID="M2">n/cluster_10_2</M>
+			<M ID="M3">g/cluster_10_2</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="12">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_113_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_113_1</M>
+			<M ID="M2">n/cluster_113_1</M>
+			<M ID="M3">g/cluster_113_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="13">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_115_3</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_115_3</M>
+			<M ID="M2">n/cluster_115_3</M>
+			<M ID="M3">g/cluster_115_3</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="14">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_115_5</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_115_5</M>
+			<M ID="M2">n/cluster_115_5</M>
+			<M ID="M3">g/cluster_115_5</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="15">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_123_5</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_123_5</M>
+			<M ID="M2">n/cluster_123_5</M>
+			<M ID="M3">g/cluster_123_5</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="16">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_132_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_132_1</M>
+			<M ID="M2">n/cluster_132_1</M>
+			<M ID="M3">g/cluster_132_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="17">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_132_4</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_132_4</M>
+			<M ID="M2">n/cluster_132_4</M>
+			<M ID="M3">g/cluster_132_4</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="18">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_134_2</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_134_2</M>
+			<M ID="M2">n/cluster_134_2</M>
+			<M ID="M3">g/cluster_134_2</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="19">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_140_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_140_1</M>
+			<M ID="M2">n/cluster_140_1</M>
+			<M ID="M3">g/cluster_140_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="20">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_140_2</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_140_2</M>
+			<M ID="M2">n/cluster_140_2</M>
+			<M ID="M3">g/cluster_140_2</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="21">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_142_7</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_142_7</M>
+			<M ID="M2">n/cluster_142_7</M>
+			<M ID="M3">g/cluster_142_7</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="22">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_143_2</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_143_2</M>
+			<M ID="M2">n/cluster_143_2</M>
+			<M ID="M3">g/cluster_143_2</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="23">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_144_2</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_144_2</M>
+			<M ID="M2">n/cluster_144_2</M>
+			<M ID="M3">g/cluster_144_2</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="24">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_146_2</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_146_2</M>
+			<M ID="M2">n/cluster_146_2</M>
+			<M ID="M3">g/cluster_146_2</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="25">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_147_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_147_1</M>
+			<M ID="M2">n/cluster_147_1</M>
+			<M ID="M3">g/cluster_147_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="26">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_148_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_148_1</M>
+			<M ID="M2">n/cluster_148_1</M>
+			<M ID="M3">g/cluster_148_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="27">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_148_2</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_148_2</M>
+			<M ID="M2">n/cluster_148_2</M>
+			<M ID="M3">g/cluster_148_2</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="28">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_148_3</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_148_3</M>
+			<M ID="M2">n/cluster_148_3</M>
+			<M ID="M3">g/cluster_148_3</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="29">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_148_4</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_148_4</M>
+			<M ID="M2">n/cluster_148_4</M>
+			<M ID="M3">g/cluster_148_4</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="30">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_14_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_14_1</M>
+			<M ID="M2">n/cluster_14_1</M>
+			<M ID="M3">g/cluster_14_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="31">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_14_2</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_14_2</M>
+			<M ID="M2">n/cluster_14_2</M>
+			<M ID="M3">g/cluster_14_2</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="32">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_151_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_151_1</M>
+			<M ID="M2">n/cluster_151_1</M>
+			<M ID="M3">g/cluster_151_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="33">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_153_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_153_1</M>
+			<M ID="M2">n/cluster_153_1</M>
+			<M ID="M3">g/cluster_153_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="34">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_153_2</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_153_2</M>
+			<M ID="M2">n/cluster_153_2</M>
+			<M ID="M3">g/cluster_153_2</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="35">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_153_3</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_153_3</M>
+			<M ID="M2">n/cluster_153_3</M>
+			<M ID="M3">g/cluster_153_3</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="36">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_158_6</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_158_6</M>
+			<M ID="M2">n/cluster_158_6</M>
+			<M ID="M3">g/cluster_158_6</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="37">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_158_7</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_158_7</M>
+			<M ID="M2">n/cluster_158_7</M>
+			<M ID="M3">g/cluster_158_7</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="38">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_15_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_15_1</M>
+			<M ID="M2">n/cluster_15_1</M>
+			<M ID="M3">g/cluster_15_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="39">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_161_3</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_161_3</M>
+			<M ID="M2">n/cluster_161_3</M>
+			<M ID="M3">g/cluster_161_3</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="40">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_167_10</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_167_10</M>
+			<M ID="M2">n/cluster_167_10</M>
+			<M ID="M3">g/cluster_167_10</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="41">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_167_4</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_167_4</M>
+			<M ID="M2">n/cluster_167_4</M>
+			<M ID="M3">g/cluster_167_4</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="42">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_167_6</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_167_6</M>
+			<M ID="M2">n/cluster_167_6</M>
+			<M ID="M3">g/cluster_167_6</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="43">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_169_2</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_169_2</M>
+			<M ID="M2">n/cluster_169_2</M>
+			<M ID="M3">g/cluster_169_2</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="44">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_16_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_16_1</M>
+			<M ID="M2">n/cluster_16_1</M>
+			<M ID="M3">g/cluster_16_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="45">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_16_2</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_16_2</M>
+			<M ID="M2">n/cluster_16_2</M>
+			<M ID="M3">g/cluster_16_2</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="46">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_170_5</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_170_5</M>
+			<M ID="M2">n/cluster_170_5</M>
+			<M ID="M3">g/cluster_170_5</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="47">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_171_4</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_171_4</M>
+			<M ID="M2">n/cluster_171_4</M>
+			<M ID="M3">g/cluster_171_4</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="48">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_179_2</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_179_2</M>
+			<M ID="M2">n/cluster_179_2</M>
+			<M ID="M3">g/cluster_179_2</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="49">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_179_4</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_179_4</M>
+			<M ID="M2">n/cluster_179_4</M>
+			<M ID="M3">g/cluster_179_4</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="50">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_180_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_180_1</M>
+			<M ID="M2">n/cluster_180_1</M>
+			<M ID="M3">g/cluster_180_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="51">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_180_3</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_180_3</M>
+			<M ID="M2">n/cluster_180_3</M>
+			<M ID="M3">g/cluster_180_3</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="52">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_182_3</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_182_3</M>
+			<M ID="M2">n/cluster_182_3</M>
+			<M ID="M3">g/cluster_182_3</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="53">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_185_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_185_1</M>
+			<M ID="M2">n/cluster_185_1</M>
+			<M ID="M3">g/cluster_185_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="54">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_191_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_191_1</M>
+			<M ID="M2">n/cluster_191_1</M>
+			<M ID="M3">g/cluster_191_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="55">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_195_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_195_1</M>
+			<M ID="M2">n/cluster_195_1</M>
+			<M ID="M3">g/cluster_195_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="56">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_197_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_197_1</M>
+			<M ID="M2">n/cluster_197_1</M>
+			<M ID="M3">g/cluster_197_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="57">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_197_2</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_197_2</M>
+			<M ID="M2">n/cluster_197_2</M>
+			<M ID="M3">g/cluster_197_2</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="58">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_197_3</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_197_3</M>
+			<M ID="M2">n/cluster_197_3</M>
+			<M ID="M3">g/cluster_197_3</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="59">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_21_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_21_1</M>
+			<M ID="M2">n/cluster_21_1</M>
+			<M ID="M3">g/cluster_21_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="60">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_21_2</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_21_2</M>
+			<M ID="M2">n/cluster_21_2</M>
+			<M ID="M3">g/cluster_21_2</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="61">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_21_3</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_21_3</M>
+			<M ID="M2">n/cluster_21_3</M>
+			<M ID="M3">g/cluster_21_3</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="62">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_21_4</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_21_4</M>
+			<M ID="M2">n/cluster_21_4</M>
+			<M ID="M3">g/cluster_21_4</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="63">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_22_4</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_22_4</M>
+			<M ID="M2">n/cluster_22_4</M>
+			<M ID="M3">g/cluster_22_4</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="64">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_23_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_23_1</M>
+			<M ID="M2">n/cluster_23_1</M>
+			<M ID="M3">g/cluster_23_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="65">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_25_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_25_1</M>
+			<M ID="M2">n/cluster_25_1</M>
+			<M ID="M3">g/cluster_25_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="66">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_29_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_29_1</M>
+			<M ID="M2">n/cluster_29_1</M>
+			<M ID="M3">g/cluster_29_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="67">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_33_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_33_1</M>
+			<M ID="M2">n/cluster_33_1</M>
+			<M ID="M3">g/cluster_33_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="68">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_33_2</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_33_2</M>
+			<M ID="M2">n/cluster_33_2</M>
+			<M ID="M3">g/cluster_33_2</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="69">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_36_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_36_1</M>
+			<M ID="M2">n/cluster_36_1</M>
+			<M ID="M3">g/cluster_36_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="70">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_38_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_38_1</M>
+			<M ID="M2">n/cluster_38_1</M>
+			<M ID="M3">g/cluster_38_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="71">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_39_2</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_39_2</M>
+			<M ID="M2">n/cluster_39_2</M>
+			<M ID="M3">g/cluster_39_2</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="72">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_40_3</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_40_3</M>
+			<M ID="M2">n/cluster_40_3</M>
+			<M ID="M3">g/cluster_40_3</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="73">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_40_5</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_40_5</M>
+			<M ID="M2">n/cluster_40_5</M>
+			<M ID="M3">g/cluster_40_5</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="74">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_41_2</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_41_2</M>
+			<M ID="M2">n/cluster_41_2</M>
+			<M ID="M3">g/cluster_41_2</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="75">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_45_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_45_1</M>
+			<M ID="M2">n/cluster_45_1</M>
+			<M ID="M3">g/cluster_45_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="76">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_45_2</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_45_2</M>
+			<M ID="M2">n/cluster_45_2</M>
+			<M ID="M3">g/cluster_45_2</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="77">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_48_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_48_1</M>
+			<M ID="M2">n/cluster_48_1</M>
+			<M ID="M3">g/cluster_48_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="78">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_48_5</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_48_5</M>
+			<M ID="M2">n/cluster_48_5</M>
+			<M ID="M3">g/cluster_48_5</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="79">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_51_2</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_51_2</M>
+			<M ID="M2">n/cluster_51_2</M>
+			<M ID="M3">g/cluster_51_2</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="80">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_52_6</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_52_6</M>
+			<M ID="M2">n/cluster_52_6</M>
+			<M ID="M3">g/cluster_52_6</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="81">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_56_5</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_56_5</M>
+			<M ID="M2">n/cluster_56_5</M>
+			<M ID="M3">g/cluster_56_5</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="82">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_57_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_57_1</M>
+			<M ID="M2">n/cluster_57_1</M>
+			<M ID="M3">g/cluster_57_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="83">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_58_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_58_1</M>
+			<M ID="M2">n/cluster_58_1</M>
+			<M ID="M3">g/cluster_58_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="84">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_59_2</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_59_2</M>
+			<M ID="M2">n/cluster_59_2</M>
+			<M ID="M3">g/cluster_59_2</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="85">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_5_2</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_5_2</M>
+			<M ID="M2">n/cluster_5_2</M>
+			<M ID="M3">g/cluster_5_2</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="86">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_60_2</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_60_2</M>
+			<M ID="M2">n/cluster_60_2</M>
+			<M ID="M3">g/cluster_60_2</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="87">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_61_16</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_61_16</M>
+			<M ID="M2">n/cluster_61_16</M>
+			<M ID="M3">g/cluster_61_16</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="88">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_61_7</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_61_7</M>
+			<M ID="M2">n/cluster_61_7</M>
+			<M ID="M3">g/cluster_61_7</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="89">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_62_2</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_62_2</M>
+			<M ID="M2">n/cluster_62_2</M>
+			<M ID="M3">g/cluster_62_2</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="90">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_63_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_63_1</M>
+			<M ID="M2">n/cluster_63_1</M>
+			<M ID="M3">g/cluster_63_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="91">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_66_4</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_66_4</M>
+			<M ID="M2">n/cluster_66_4</M>
+			<M ID="M3">g/cluster_66_4</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="92">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_71_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_71_1</M>
+			<M ID="M2">n/cluster_71_1</M>
+			<M ID="M3">g/cluster_71_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="93">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_72_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_72_1</M>
+			<M ID="M2">n/cluster_72_1</M>
+			<M ID="M3">g/cluster_72_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="94">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_73_2</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_73_2</M>
+			<M ID="M2">n/cluster_73_2</M>
+			<M ID="M3">g/cluster_73_2</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="95">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_74_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_74_1</M>
+			<M ID="M2">n/cluster_74_1</M>
+			<M ID="M3">g/cluster_74_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="96">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_74_2</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_74_2</M>
+			<M ID="M2">n/cluster_74_2</M>
+			<M ID="M3">g/cluster_74_2</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="97">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_74_5</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_74_5</M>
+			<M ID="M2">n/cluster_74_5</M>
+			<M ID="M3">g/cluster_74_5</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="98">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_75_2</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_75_2</M>
+			<M ID="M2">n/cluster_75_2</M>
+			<M ID="M3">g/cluster_75_2</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="99">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_75_4</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_75_4</M>
+			<M ID="M2">n/cluster_75_4</M>
+			<M ID="M3">g/cluster_75_4</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="100">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_76_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_76_1</M>
+			<M ID="M2">n/cluster_76_1</M>
+			<M ID="M3">g/cluster_76_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="101">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_79_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_79_1</M>
+			<M ID="M2">n/cluster_79_1</M>
+			<M ID="M3">g/cluster_79_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="102">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_79_13</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_79_13</M>
+			<M ID="M2">n/cluster_79_13</M>
+			<M ID="M3">g/cluster_79_13</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="103">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_79_15</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_79_15</M>
+			<M ID="M2">n/cluster_79_15</M>
+			<M ID="M3">g/cluster_79_15</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="104">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_79_21</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_79_21</M>
+			<M ID="M2">n/cluster_79_21</M>
+			<M ID="M3">g/cluster_79_21</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="105">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_79_22</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_79_22</M>
+			<M ID="M2">n/cluster_79_22</M>
+			<M ID="M3">g/cluster_79_22</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="106">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_79_26</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_79_26</M>
+			<M ID="M2">n/cluster_79_26</M>
+			<M ID="M3">g/cluster_79_26</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="107">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_79_4</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_79_4</M>
+			<M ID="M2">n/cluster_79_4</M>
+			<M ID="M3">g/cluster_79_4</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="108">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_79_6</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_79_6</M>
+			<M ID="M2">n/cluster_79_6</M>
+			<M ID="M3">g/cluster_79_6</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="109">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_80_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_80_1</M>
+			<M ID="M2">n/cluster_80_1</M>
+			<M ID="M3">g/cluster_80_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="110">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_8_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_8_1</M>
+			<M ID="M2">n/cluster_8_1</M>
+			<M ID="M3">g/cluster_8_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="111">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_94_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_94_1</M>
+			<M ID="M2">n/cluster_94_1</M>
+			<M ID="M3">g/cluster_94_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="112">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_94_2</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_94_2</M>
+			<M ID="M2">n/cluster_94_2</M>
+			<M ID="M3">g/cluster_94_2</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="113">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_98_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_98_1</M>
+			<M ID="M2">n/cluster_98_1</M>
+			<M ID="M3">g/cluster_98_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="114">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_9_1</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_9_1</M>
+			<M ID="M2">n/cluster_9_1</M>
+			<M ID="M3">g/cluster_9_1</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="115">
+		<PEER-ROOT>MSC-VN/system/fre</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">cluster_9_2</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">v/cluster_9_2</M>
+			<M ID="M2">n/cluster_9_2</M>
+			<M ID="M3">g/cluster_9_2</M>
+		</MODELS>
+	</EVAL>
+</ROUGE-EVAL>
