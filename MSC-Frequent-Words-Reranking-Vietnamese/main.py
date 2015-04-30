@@ -82,29 +82,27 @@ if __name__ == '__main__':
     lstStopWords = read_stop_word_from_file()
     path_original = resources_path + 'MSC-VN/original/pos/'
     path_system = resources_path + 'MSC-VN/system/'
-    file_type = '*'
-    files = [f for f in os.listdir(path_original) if os.path.isfile(os.path.join(path_original, f))]
-    for f in files:
-        if fnmatch.fnmatch(os.path.join(path_original, f), file_type):
-            try:
-                print("File: ", f)
-                lstTaggedSentences = read_text_file(os.path.join(path_original, f))
-                lstTaggedSentences = sort_sentence_by_overlap(lstTaggedSentences)
+    for iCluster in range(1, 116):
+        f = str(iCluster).rjust(3, "0")
+        try:
+            print("File: ", f)
+            lstTaggedSentences = read_text_file(os.path.join(path_original, f))
+            lstTaggedSentences = sort_sentence_by_overlap(lstTaggedSentences)
 
-                """ Print source sentences """
-                for tmp_tagged_sentence in lstTaggedSentences:
-                    tmp_plain_sentence = ''
-                    for tagged_word in tmp_tagged_sentence:
-                        tmp_plain_sentence += tagged_word[0] + ' '
-                    tmp_plain_sentence = tmp_plain_sentence.strip()
-                    print('\t%s' % tmp_plain_sentence)
+            """ Print source sentences """
+            for tmp_tagged_sentence in lstTaggedSentences:
+                tmp_plain_sentence = ''
+                for tagged_word in tmp_tagged_sentence:
+                    tmp_plain_sentence += tagged_word[0] + ' '
+                tmp_plain_sentence = tmp_plain_sentence.strip()
+                print('\t%s' % tmp_plain_sentence)
 
-                """ Frequency """
-                compressResult = wordgraph.action(lstTaggedSentences, lstStopWords)
-                target_org = open(os.path.join(path_system + 'fre/', f), 'w', encoding='utf8')
-                target_org.write(compressResult.replace('_', ' ').strip())
-                target_org.close()
-                print('==>', compressResult.strip())
-                print('-------------------------------------------------------------------------------------')
-            except:
-                print('except')
+            """ Frequency """
+            compressResult = wordgraph.action(lstTaggedSentences, lstStopWords)
+            target_org = open(os.path.join(path_system, f), 'w', encoding='utf8')
+            target_org.write(compressResult.replace('_', ' ').strip())
+            target_org.close()
+            print('==>', compressResult.strip())
+            print('-------------------------------------------------------------------------------------')
+        except:
+            print('except')
