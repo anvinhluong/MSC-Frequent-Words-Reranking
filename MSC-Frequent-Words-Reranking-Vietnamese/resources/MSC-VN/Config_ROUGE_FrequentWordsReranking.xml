@@ -1,0 +1,1497 @@
+<ROUGE-EVAL version="1.0">
+	<EVAL ID="1">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">001</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/001</M>
+			<M ID="M2">ref2/001</M>
+			<M ID="M3">ref3/001</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="2">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">002</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/002</M>
+			<M ID="M2">ref2/002</M>
+			<M ID="M3">ref3/002</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="3">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">003</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/003</M>
+			<M ID="M2">ref2/003</M>
+			<M ID="M3">ref3/003</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="4">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">004</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/004</M>
+			<M ID="M2">ref2/004</M>
+			<M ID="M3">ref3/004</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="5">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">005</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/005</M>
+			<M ID="M2">ref2/005</M>
+			<M ID="M3">ref3/005</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="6">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">006</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/006</M>
+			<M ID="M2">ref2/006</M>
+			<M ID="M3">ref3/006</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="7">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">007</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/007</M>
+			<M ID="M2">ref2/007</M>
+			<M ID="M3">ref3/007</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="8">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">008</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/008</M>
+			<M ID="M2">ref2/008</M>
+			<M ID="M3">ref3/008</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="9">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">009</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/009</M>
+			<M ID="M2">ref2/009</M>
+			<M ID="M3">ref3/009</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="10">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">010</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/010</M>
+			<M ID="M2">ref2/010</M>
+			<M ID="M3">ref3/010</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="11">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">011</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/011</M>
+			<M ID="M2">ref2/011</M>
+			<M ID="M3">ref3/011</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="12">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">012</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/012</M>
+			<M ID="M2">ref2/012</M>
+			<M ID="M3">ref3/012</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="13">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">013</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/013</M>
+			<M ID="M2">ref2/013</M>
+			<M ID="M3">ref3/013</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="14">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">014</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/014</M>
+			<M ID="M2">ref2/014</M>
+			<M ID="M3">ref3/014</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="15">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">015</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/015</M>
+			<M ID="M2">ref2/015</M>
+			<M ID="M3">ref3/015</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="16">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">016</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/016</M>
+			<M ID="M2">ref2/016</M>
+			<M ID="M3">ref3/016</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="17">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">017</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/017</M>
+			<M ID="M2">ref2/017</M>
+			<M ID="M3">ref3/017</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="18">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">018</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/018</M>
+			<M ID="M2">ref2/018</M>
+			<M ID="M3">ref3/018</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="19">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">019</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/019</M>
+			<M ID="M2">ref2/019</M>
+			<M ID="M3">ref3/019</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="20">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">020</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/020</M>
+			<M ID="M2">ref2/020</M>
+			<M ID="M3">ref3/020</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="21">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">021</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/021</M>
+			<M ID="M2">ref2/021</M>
+			<M ID="M3">ref3/021</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="22">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">022</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/022</M>
+			<M ID="M2">ref2/022</M>
+			<M ID="M3">ref3/022</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="23">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">023</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/023</M>
+			<M ID="M2">ref2/023</M>
+			<M ID="M3">ref3/023</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="24">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">024</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/024</M>
+			<M ID="M2">ref2/024</M>
+			<M ID="M3">ref3/024</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="25">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">025</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/025</M>
+			<M ID="M2">ref2/025</M>
+			<M ID="M3">ref3/025</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="26">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">026</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/026</M>
+			<M ID="M2">ref2/026</M>
+			<M ID="M3">ref3/026</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="27">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">027</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/027</M>
+			<M ID="M2">ref2/027</M>
+			<M ID="M3">ref3/027</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="28">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">028</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/028</M>
+			<M ID="M2">ref2/028</M>
+			<M ID="M3">ref3/028</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="29">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">029</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/029</M>
+			<M ID="M2">ref2/029</M>
+			<M ID="M3">ref3/029</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="30">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">030</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/030</M>
+			<M ID="M2">ref2/030</M>
+			<M ID="M3">ref3/030</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="31">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">031</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/031</M>
+			<M ID="M2">ref2/031</M>
+			<M ID="M3">ref3/031</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="32">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">032</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/032</M>
+			<M ID="M2">ref2/032</M>
+			<M ID="M3">ref3/032</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="33">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">033</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/033</M>
+			<M ID="M2">ref2/033</M>
+			<M ID="M3">ref3/033</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="34">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">034</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/034</M>
+			<M ID="M2">ref2/034</M>
+			<M ID="M3">ref3/034</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="35">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">035</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/035</M>
+			<M ID="M2">ref2/035</M>
+			<M ID="M3">ref3/035</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="36">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">036</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/036</M>
+			<M ID="M2">ref2/036</M>
+			<M ID="M3">ref3/036</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="37">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">037</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/037</M>
+			<M ID="M2">ref2/037</M>
+			<M ID="M3">ref3/037</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="38">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">038</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/038</M>
+			<M ID="M2">ref2/038</M>
+			<M ID="M3">ref3/038</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="39">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">039</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/039</M>
+			<M ID="M2">ref2/039</M>
+			<M ID="M3">ref3/039</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="40">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">040</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/040</M>
+			<M ID="M2">ref2/040</M>
+			<M ID="M3">ref3/040</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="41">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">041</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/041</M>
+			<M ID="M2">ref2/041</M>
+			<M ID="M3">ref3/041</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="42">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">042</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/042</M>
+			<M ID="M2">ref2/042</M>
+			<M ID="M3">ref3/042</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="43">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">043</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/043</M>
+			<M ID="M2">ref2/043</M>
+			<M ID="M3">ref3/043</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="44">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">044</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/044</M>
+			<M ID="M2">ref2/044</M>
+			<M ID="M3">ref3/044</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="45">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">045</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/045</M>
+			<M ID="M2">ref2/045</M>
+			<M ID="M3">ref3/045</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="46">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">046</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/046</M>
+			<M ID="M2">ref2/046</M>
+			<M ID="M3">ref3/046</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="47">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">047</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/047</M>
+			<M ID="M2">ref2/047</M>
+			<M ID="M3">ref3/047</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="48">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">048</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/048</M>
+			<M ID="M2">ref2/048</M>
+			<M ID="M3">ref3/048</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="49">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">049</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/049</M>
+			<M ID="M2">ref2/049</M>
+			<M ID="M3">ref3/049</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="50">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">050</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/050</M>
+			<M ID="M2">ref2/050</M>
+			<M ID="M3">ref3/050</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="51">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">051</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/051</M>
+			<M ID="M2">ref2/051</M>
+			<M ID="M3">ref3/051</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="52">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">052</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/052</M>
+			<M ID="M2">ref2/052</M>
+			<M ID="M3">ref3/052</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="53">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">053</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/053</M>
+			<M ID="M2">ref2/053</M>
+			<M ID="M3">ref3/053</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="54">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">054</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/054</M>
+			<M ID="M2">ref2/054</M>
+			<M ID="M3">ref3/054</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="55">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">055</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/055</M>
+			<M ID="M2">ref2/055</M>
+			<M ID="M3">ref3/055</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="56">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">056</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/056</M>
+			<M ID="M2">ref2/056</M>
+			<M ID="M3">ref3/056</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="57">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">057</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/057</M>
+			<M ID="M2">ref2/057</M>
+			<M ID="M3">ref3/057</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="58">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">058</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/058</M>
+			<M ID="M2">ref2/058</M>
+			<M ID="M3">ref3/058</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="59">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">059</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/059</M>
+			<M ID="M2">ref2/059</M>
+			<M ID="M3">ref3/059</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="60">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">060</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/060</M>
+			<M ID="M2">ref2/060</M>
+			<M ID="M3">ref3/060</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="61">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">061</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/061</M>
+			<M ID="M2">ref2/061</M>
+			<M ID="M3">ref3/061</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="62">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">062</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/062</M>
+			<M ID="M2">ref2/062</M>
+			<M ID="M3">ref3/062</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="63">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">063</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/063</M>
+			<M ID="M2">ref2/063</M>
+			<M ID="M3">ref3/063</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="64">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">064</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/064</M>
+			<M ID="M2">ref2/064</M>
+			<M ID="M3">ref3/064</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="65">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">065</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/065</M>
+			<M ID="M2">ref2/065</M>
+			<M ID="M3">ref3/065</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="66">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">066</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/066</M>
+			<M ID="M2">ref2/066</M>
+			<M ID="M3">ref3/066</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="67">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">067</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/067</M>
+			<M ID="M2">ref2/067</M>
+			<M ID="M3">ref3/067</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="68">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">068</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/068</M>
+			<M ID="M2">ref2/068</M>
+			<M ID="M3">ref3/068</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="69">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">069</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/069</M>
+			<M ID="M2">ref2/069</M>
+			<M ID="M3">ref3/069</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="70">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">070</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/070</M>
+			<M ID="M2">ref2/070</M>
+			<M ID="M3">ref3/070</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="71">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">071</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/071</M>
+			<M ID="M2">ref2/071</M>
+			<M ID="M3">ref3/071</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="72">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">072</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/072</M>
+			<M ID="M2">ref2/072</M>
+			<M ID="M3">ref3/072</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="73">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">073</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/073</M>
+			<M ID="M2">ref2/073</M>
+			<M ID="M3">ref3/073</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="74">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">074</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/074</M>
+			<M ID="M2">ref2/074</M>
+			<M ID="M3">ref3/074</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="75">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">075</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/075</M>
+			<M ID="M2">ref2/075</M>
+			<M ID="M3">ref3/075</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="76">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">076</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/076</M>
+			<M ID="M2">ref2/076</M>
+			<M ID="M3">ref3/076</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="77">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">077</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/077</M>
+			<M ID="M2">ref2/077</M>
+			<M ID="M3">ref3/077</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="78">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">078</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/078</M>
+			<M ID="M2">ref2/078</M>
+			<M ID="M3">ref3/078</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="79">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">079</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/079</M>
+			<M ID="M2">ref2/079</M>
+			<M ID="M3">ref3/079</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="80">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">080</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/080</M>
+			<M ID="M2">ref2/080</M>
+			<M ID="M3">ref3/080</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="81">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">081</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/081</M>
+			<M ID="M2">ref2/081</M>
+			<M ID="M3">ref3/081</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="82">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">082</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/082</M>
+			<M ID="M2">ref2/082</M>
+			<M ID="M3">ref3/082</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="83">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">083</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/083</M>
+			<M ID="M2">ref2/083</M>
+			<M ID="M3">ref3/083</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="84">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">084</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/084</M>
+			<M ID="M2">ref2/084</M>
+			<M ID="M3">ref3/084</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="85">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">085</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/085</M>
+			<M ID="M2">ref2/085</M>
+			<M ID="M3">ref3/085</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="86">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">086</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/086</M>
+			<M ID="M2">ref2/086</M>
+			<M ID="M3">ref3/086</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="87">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">087</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/087</M>
+			<M ID="M2">ref2/087</M>
+			<M ID="M3">ref3/087</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="88">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">088</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/088</M>
+			<M ID="M2">ref2/088</M>
+			<M ID="M3">ref3/088</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="89">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">089</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/089</M>
+			<M ID="M2">ref2/089</M>
+			<M ID="M3">ref3/089</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="90">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">090</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/090</M>
+			<M ID="M2">ref2/090</M>
+			<M ID="M3">ref3/090</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="91">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">091</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/091</M>
+			<M ID="M2">ref2/091</M>
+			<M ID="M3">ref3/091</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="92">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">092</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/092</M>
+			<M ID="M2">ref2/092</M>
+			<M ID="M3">ref3/092</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="93">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">093</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/093</M>
+			<M ID="M2">ref2/093</M>
+			<M ID="M3">ref3/093</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="94">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">094</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/094</M>
+			<M ID="M2">ref2/094</M>
+			<M ID="M3">ref3/094</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="95">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">095</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/095</M>
+			<M ID="M2">ref2/095</M>
+			<M ID="M3">ref3/095</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="96">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">096</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/096</M>
+			<M ID="M2">ref2/096</M>
+			<M ID="M3">ref3/096</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="97">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">097</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/097</M>
+			<M ID="M2">ref2/097</M>
+			<M ID="M3">ref3/097</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="98">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">098</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/098</M>
+			<M ID="M2">ref2/098</M>
+			<M ID="M3">ref3/098</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="99">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">099</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/099</M>
+			<M ID="M2">ref2/099</M>
+			<M ID="M3">ref3/099</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="100">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">100</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/100</M>
+			<M ID="M2">ref2/100</M>
+			<M ID="M3">ref3/100</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="101">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">101</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/101</M>
+			<M ID="M2">ref2/101</M>
+			<M ID="M3">ref3/101</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="102">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">102</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/102</M>
+			<M ID="M2">ref2/102</M>
+			<M ID="M3">ref3/102</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="103">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">103</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/103</M>
+			<M ID="M2">ref2/103</M>
+			<M ID="M3">ref3/103</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="104">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">104</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/104</M>
+			<M ID="M2">ref2/104</M>
+			<M ID="M3">ref3/104</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="105">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">105</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/105</M>
+			<M ID="M2">ref2/105</M>
+			<M ID="M3">ref3/105</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="106">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">106</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/106</M>
+			<M ID="M2">ref2/106</M>
+			<M ID="M3">ref3/106</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="107">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">107</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/107</M>
+			<M ID="M2">ref2/107</M>
+			<M ID="M3">ref3/107</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="108">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">108</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/108</M>
+			<M ID="M2">ref2/108</M>
+			<M ID="M3">ref3/108</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="109">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">109</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/109</M>
+			<M ID="M2">ref2/109</M>
+			<M ID="M3">ref3/109</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="110">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">110</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/110</M>
+			<M ID="M2">ref2/110</M>
+			<M ID="M3">ref3/110</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="111">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">111</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/111</M>
+			<M ID="M2">ref2/111</M>
+			<M ID="M3">ref3/111</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="112">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">112</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/112</M>
+			<M ID="M2">ref2/112</M>
+			<M ID="M3">ref3/112</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="113">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">113</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/113</M>
+			<M ID="M2">ref2/113</M>
+			<M ID="M3">ref3/113</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="114">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">114</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/114</M>
+			<M ID="M2">ref2/114</M>
+			<M ID="M3">ref3/114</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="115">
+		<PEER-ROOT>MSC-VN/system</PEER-ROOT>
+		<MODEL-ROOT>MSC-VN/reference</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">115</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">ref1/115</M>
+			<M ID="M2">ref2/115</M>
+			<M ID="M3">ref3/115</M>
+		</MODELS>
+	</EVAL>
+</ROUGE-EVAL>
