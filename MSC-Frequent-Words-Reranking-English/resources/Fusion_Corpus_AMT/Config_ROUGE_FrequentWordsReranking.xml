@@ -1,0 +1,4500 @@
+<ROUGE-EVAL version="1.0">
+	<EVAL ID="1">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">001.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">001.ref1.txt</M>
+			<M ID="M2">001.ref2.txt</M>
+			<M ID="M3">001.ref3.txt</M>
+			<M ID="M4">001.ref4.txt</M>
+			<M ID="M5">001.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="2">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">002.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">002.ref1.txt</M>
+			<M ID="M2">002.ref2.txt</M>
+			<M ID="M3">002.ref3.txt</M>
+			<M ID="M4">002.ref4.txt</M>
+			<M ID="M5">002.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="3">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">003.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">003.ref1.txt</M>
+			<M ID="M2">003.ref2.txt</M>
+			<M ID="M3">003.ref3.txt</M>
+			<M ID="M4">003.ref4.txt</M>
+			<M ID="M5">003.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="4">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">004.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">004.ref1.txt</M>
+			<M ID="M2">004.ref2.txt</M>
+			<M ID="M3">004.ref3.txt</M>
+			<M ID="M4">004.ref4.txt</M>
+			<M ID="M5">004.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="5">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">005.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">005.ref1.txt</M>
+			<M ID="M2">005.ref2.txt</M>
+			<M ID="M3">005.ref3.txt</M>
+			<M ID="M4">005.ref4.txt</M>
+			<M ID="M5">005.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="6">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">006.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">006.ref1.txt</M>
+			<M ID="M2">006.ref2.txt</M>
+			<M ID="M3">006.ref3.txt</M>
+			<M ID="M4">006.ref4.txt</M>
+			<M ID="M5">006.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="7">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">007.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">007.ref1.txt</M>
+			<M ID="M2">007.ref2.txt</M>
+			<M ID="M3">007.ref3.txt</M>
+			<M ID="M4">007.ref4.txt</M>
+			<M ID="M5">007.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="8">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">008.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">008.ref1.txt</M>
+			<M ID="M2">008.ref2.txt</M>
+			<M ID="M3">008.ref3.txt</M>
+			<M ID="M4">008.ref4.txt</M>
+			<M ID="M5">008.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="9">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">009.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">009.ref1.txt</M>
+			<M ID="M2">009.ref2.txt</M>
+			<M ID="M3">009.ref3.txt</M>
+			<M ID="M4">009.ref4.txt</M>
+			<M ID="M5">009.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="10">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">010.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">010.ref1.txt</M>
+			<M ID="M2">010.ref2.txt</M>
+			<M ID="M3">010.ref3.txt</M>
+			<M ID="M4">010.ref4.txt</M>
+			<M ID="M5">010.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="11">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">011.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">011.ref1.txt</M>
+			<M ID="M2">011.ref2.txt</M>
+			<M ID="M3">011.ref3.txt</M>
+			<M ID="M4">011.ref4.txt</M>
+			<M ID="M5">011.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="12">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">012.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">012.ref1.txt</M>
+			<M ID="M2">012.ref2.txt</M>
+			<M ID="M3">012.ref3.txt</M>
+			<M ID="M4">012.ref4.txt</M>
+			<M ID="M5">012.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="13">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">013.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">013.ref1.txt</M>
+			<M ID="M2">013.ref2.txt</M>
+			<M ID="M3">013.ref3.txt</M>
+			<M ID="M4">013.ref4.txt</M>
+			<M ID="M5">013.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="14">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">014.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">014.ref1.txt</M>
+			<M ID="M2">014.ref2.txt</M>
+			<M ID="M3">014.ref3.txt</M>
+			<M ID="M4">014.ref4.txt</M>
+			<M ID="M5">014.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="15">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">015.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">015.ref1.txt</M>
+			<M ID="M2">015.ref2.txt</M>
+			<M ID="M3">015.ref3.txt</M>
+			<M ID="M4">015.ref4.txt</M>
+			<M ID="M5">015.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="16">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">016.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">016.ref1.txt</M>
+			<M ID="M2">016.ref2.txt</M>
+			<M ID="M3">016.ref3.txt</M>
+			<M ID="M4">016.ref4.txt</M>
+			<M ID="M5">016.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="17">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">017.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">017.ref1.txt</M>
+			<M ID="M2">017.ref2.txt</M>
+			<M ID="M3">017.ref3.txt</M>
+			<M ID="M4">017.ref4.txt</M>
+			<M ID="M5">017.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="18">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">018.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">018.ref1.txt</M>
+			<M ID="M2">018.ref2.txt</M>
+			<M ID="M3">018.ref3.txt</M>
+			<M ID="M4">018.ref4.txt</M>
+			<M ID="M5">018.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="19">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">019.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">019.ref1.txt</M>
+			<M ID="M2">019.ref2.txt</M>
+			<M ID="M3">019.ref3.txt</M>
+			<M ID="M4">019.ref4.txt</M>
+			<M ID="M5">019.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="20">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">020.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">020.ref1.txt</M>
+			<M ID="M2">020.ref2.txt</M>
+			<M ID="M3">020.ref3.txt</M>
+			<M ID="M4">020.ref4.txt</M>
+			<M ID="M5">020.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="21">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">021.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">021.ref1.txt</M>
+			<M ID="M2">021.ref2.txt</M>
+			<M ID="M3">021.ref3.txt</M>
+			<M ID="M4">021.ref4.txt</M>
+			<M ID="M5">021.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="22">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">022.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">022.ref1.txt</M>
+			<M ID="M2">022.ref2.txt</M>
+			<M ID="M3">022.ref3.txt</M>
+			<M ID="M4">022.ref4.txt</M>
+			<M ID="M5">022.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="23">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">023.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">023.ref1.txt</M>
+			<M ID="M2">023.ref2.txt</M>
+			<M ID="M3">023.ref3.txt</M>
+			<M ID="M4">023.ref4.txt</M>
+			<M ID="M5">023.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="24">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">024.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">024.ref1.txt</M>
+			<M ID="M2">024.ref2.txt</M>
+			<M ID="M3">024.ref3.txt</M>
+			<M ID="M4">024.ref4.txt</M>
+			<M ID="M5">024.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="25">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">025.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">025.ref1.txt</M>
+			<M ID="M2">025.ref2.txt</M>
+			<M ID="M3">025.ref3.txt</M>
+			<M ID="M4">025.ref4.txt</M>
+			<M ID="M5">025.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="26">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">026.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">026.ref1.txt</M>
+			<M ID="M2">026.ref2.txt</M>
+			<M ID="M3">026.ref3.txt</M>
+			<M ID="M4">026.ref4.txt</M>
+			<M ID="M5">026.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="27">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">027.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">027.ref1.txt</M>
+			<M ID="M2">027.ref2.txt</M>
+			<M ID="M3">027.ref3.txt</M>
+			<M ID="M4">027.ref4.txt</M>
+			<M ID="M5">027.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="28">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">028.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">028.ref1.txt</M>
+			<M ID="M2">028.ref2.txt</M>
+			<M ID="M3">028.ref3.txt</M>
+			<M ID="M4">028.ref4.txt</M>
+			<M ID="M5">028.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="29">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">029.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">029.ref1.txt</M>
+			<M ID="M2">029.ref2.txt</M>
+			<M ID="M3">029.ref3.txt</M>
+			<M ID="M4">029.ref4.txt</M>
+			<M ID="M5">029.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="30">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">030.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">030.ref1.txt</M>
+			<M ID="M2">030.ref2.txt</M>
+			<M ID="M3">030.ref3.txt</M>
+			<M ID="M4">030.ref4.txt</M>
+			<M ID="M5">030.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="31">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">031.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">031.ref1.txt</M>
+			<M ID="M2">031.ref2.txt</M>
+			<M ID="M3">031.ref3.txt</M>
+			<M ID="M4">031.ref4.txt</M>
+			<M ID="M5">031.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="32">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">032.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">032.ref1.txt</M>
+			<M ID="M2">032.ref2.txt</M>
+			<M ID="M3">032.ref3.txt</M>
+			<M ID="M4">032.ref4.txt</M>
+			<M ID="M5">032.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="33">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">033.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">033.ref1.txt</M>
+			<M ID="M2">033.ref2.txt</M>
+			<M ID="M3">033.ref3.txt</M>
+			<M ID="M4">033.ref4.txt</M>
+			<M ID="M5">033.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="34">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">034.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">034.ref1.txt</M>
+			<M ID="M2">034.ref2.txt</M>
+			<M ID="M3">034.ref3.txt</M>
+			<M ID="M4">034.ref4.txt</M>
+			<M ID="M5">034.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="35">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">035.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">035.ref1.txt</M>
+			<M ID="M2">035.ref2.txt</M>
+			<M ID="M3">035.ref3.txt</M>
+			<M ID="M4">035.ref4.txt</M>
+			<M ID="M5">035.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="36">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">036.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">036.ref1.txt</M>
+			<M ID="M2">036.ref2.txt</M>
+			<M ID="M3">036.ref3.txt</M>
+			<M ID="M4">036.ref4.txt</M>
+			<M ID="M5">036.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="37">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">037.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">037.ref1.txt</M>
+			<M ID="M2">037.ref2.txt</M>
+			<M ID="M3">037.ref3.txt</M>
+			<M ID="M4">037.ref4.txt</M>
+			<M ID="M5">037.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="38">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">038.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">038.ref1.txt</M>
+			<M ID="M2">038.ref2.txt</M>
+			<M ID="M3">038.ref3.txt</M>
+			<M ID="M4">038.ref4.txt</M>
+			<M ID="M5">038.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="39">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">039.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">039.ref1.txt</M>
+			<M ID="M2">039.ref2.txt</M>
+			<M ID="M3">039.ref3.txt</M>
+			<M ID="M4">039.ref4.txt</M>
+			<M ID="M5">039.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="40">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">040.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">040.ref1.txt</M>
+			<M ID="M2">040.ref2.txt</M>
+			<M ID="M3">040.ref3.txt</M>
+			<M ID="M4">040.ref4.txt</M>
+			<M ID="M5">040.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="41">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">041.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">041.ref1.txt</M>
+			<M ID="M2">041.ref2.txt</M>
+			<M ID="M3">041.ref3.txt</M>
+			<M ID="M4">041.ref4.txt</M>
+			<M ID="M5">041.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="42">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">042.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">042.ref1.txt</M>
+			<M ID="M2">042.ref2.txt</M>
+			<M ID="M3">042.ref3.txt</M>
+			<M ID="M4">042.ref4.txt</M>
+			<M ID="M5">042.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="43">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">043.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">043.ref1.txt</M>
+			<M ID="M2">043.ref2.txt</M>
+			<M ID="M3">043.ref3.txt</M>
+			<M ID="M4">043.ref4.txt</M>
+			<M ID="M5">043.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="44">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">044.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">044.ref1.txt</M>
+			<M ID="M2">044.ref2.txt</M>
+			<M ID="M3">044.ref3.txt</M>
+			<M ID="M4">044.ref4.txt</M>
+			<M ID="M5">044.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="45">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">045.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">045.ref1.txt</M>
+			<M ID="M2">045.ref2.txt</M>
+			<M ID="M3">045.ref3.txt</M>
+			<M ID="M4">045.ref4.txt</M>
+			<M ID="M5">045.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="46">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">046.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">046.ref1.txt</M>
+			<M ID="M2">046.ref2.txt</M>
+			<M ID="M3">046.ref3.txt</M>
+			<M ID="M4">046.ref4.txt</M>
+			<M ID="M5">046.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="47">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">047.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">047.ref1.txt</M>
+			<M ID="M2">047.ref2.txt</M>
+			<M ID="M3">047.ref3.txt</M>
+			<M ID="M4">047.ref4.txt</M>
+			<M ID="M5">047.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="48">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">048.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">048.ref1.txt</M>
+			<M ID="M2">048.ref2.txt</M>
+			<M ID="M3">048.ref3.txt</M>
+			<M ID="M4">048.ref4.txt</M>
+			<M ID="M5">048.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="49">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">049.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">049.ref1.txt</M>
+			<M ID="M2">049.ref2.txt</M>
+			<M ID="M3">049.ref3.txt</M>
+			<M ID="M4">049.ref4.txt</M>
+			<M ID="M5">049.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="50">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">050.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">050.ref1.txt</M>
+			<M ID="M2">050.ref2.txt</M>
+			<M ID="M3">050.ref3.txt</M>
+			<M ID="M4">050.ref4.txt</M>
+			<M ID="M5">050.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="51">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">051.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">051.ref1.txt</M>
+			<M ID="M2">051.ref2.txt</M>
+			<M ID="M3">051.ref3.txt</M>
+			<M ID="M4">051.ref4.txt</M>
+			<M ID="M5">051.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="52">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">052.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">052.ref1.txt</M>
+			<M ID="M2">052.ref2.txt</M>
+			<M ID="M3">052.ref3.txt</M>
+			<M ID="M4">052.ref4.txt</M>
+			<M ID="M5">052.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="53">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">053.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">053.ref1.txt</M>
+			<M ID="M2">053.ref2.txt</M>
+			<M ID="M3">053.ref3.txt</M>
+			<M ID="M4">053.ref4.txt</M>
+			<M ID="M5">053.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="54">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">054.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">054.ref1.txt</M>
+			<M ID="M2">054.ref2.txt</M>
+			<M ID="M3">054.ref3.txt</M>
+			<M ID="M4">054.ref4.txt</M>
+			<M ID="M5">054.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="55">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">055.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">055.ref1.txt</M>
+			<M ID="M2">055.ref2.txt</M>
+			<M ID="M3">055.ref3.txt</M>
+			<M ID="M4">055.ref4.txt</M>
+			<M ID="M5">055.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="56">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">056.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">056.ref1.txt</M>
+			<M ID="M2">056.ref2.txt</M>
+			<M ID="M3">056.ref3.txt</M>
+			<M ID="M4">056.ref4.txt</M>
+			<M ID="M5">056.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="57">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">057.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">057.ref1.txt</M>
+			<M ID="M2">057.ref2.txt</M>
+			<M ID="M3">057.ref3.txt</M>
+			<M ID="M4">057.ref4.txt</M>
+			<M ID="M5">057.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="58">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">058.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">058.ref1.txt</M>
+			<M ID="M2">058.ref2.txt</M>
+			<M ID="M3">058.ref3.txt</M>
+			<M ID="M4">058.ref4.txt</M>
+			<M ID="M5">058.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="59">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">059.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">059.ref1.txt</M>
+			<M ID="M2">059.ref2.txt</M>
+			<M ID="M3">059.ref3.txt</M>
+			<M ID="M4">059.ref4.txt</M>
+			<M ID="M5">059.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="60">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">060.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">060.ref1.txt</M>
+			<M ID="M2">060.ref2.txt</M>
+			<M ID="M3">060.ref3.txt</M>
+			<M ID="M4">060.ref4.txt</M>
+			<M ID="M5">060.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="61">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">061.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">061.ref1.txt</M>
+			<M ID="M2">061.ref2.txt</M>
+			<M ID="M3">061.ref3.txt</M>
+			<M ID="M4">061.ref4.txt</M>
+			<M ID="M5">061.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="62">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">062.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">062.ref1.txt</M>
+			<M ID="M2">062.ref2.txt</M>
+			<M ID="M3">062.ref3.txt</M>
+			<M ID="M4">062.ref4.txt</M>
+			<M ID="M5">062.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="63">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">063.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">063.ref1.txt</M>
+			<M ID="M2">063.ref2.txt</M>
+			<M ID="M3">063.ref3.txt</M>
+			<M ID="M4">063.ref4.txt</M>
+			<M ID="M5">063.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="64">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">064.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">064.ref1.txt</M>
+			<M ID="M2">064.ref2.txt</M>
+			<M ID="M3">064.ref3.txt</M>
+			<M ID="M4">064.ref4.txt</M>
+			<M ID="M5">064.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="65">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">065.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">065.ref1.txt</M>
+			<M ID="M2">065.ref2.txt</M>
+			<M ID="M3">065.ref3.txt</M>
+			<M ID="M4">065.ref4.txt</M>
+			<M ID="M5">065.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="66">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">066.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">066.ref1.txt</M>
+			<M ID="M2">066.ref2.txt</M>
+			<M ID="M3">066.ref3.txt</M>
+			<M ID="M4">066.ref4.txt</M>
+			<M ID="M5">066.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="67">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">067.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">067.ref1.txt</M>
+			<M ID="M2">067.ref2.txt</M>
+			<M ID="M3">067.ref3.txt</M>
+			<M ID="M4">067.ref4.txt</M>
+			<M ID="M5">067.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="68">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">068.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">068.ref1.txt</M>
+			<M ID="M2">068.ref2.txt</M>
+			<M ID="M3">068.ref3.txt</M>
+			<M ID="M4">068.ref4.txt</M>
+			<M ID="M5">068.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="69">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">069.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">069.ref1.txt</M>
+			<M ID="M2">069.ref2.txt</M>
+			<M ID="M3">069.ref3.txt</M>
+			<M ID="M4">069.ref4.txt</M>
+			<M ID="M5">069.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="70">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">070.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">070.ref1.txt</M>
+			<M ID="M2">070.ref2.txt</M>
+			<M ID="M3">070.ref3.txt</M>
+			<M ID="M4">070.ref4.txt</M>
+			<M ID="M5">070.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="71">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">071.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">071.ref1.txt</M>
+			<M ID="M2">071.ref2.txt</M>
+			<M ID="M3">071.ref3.txt</M>
+			<M ID="M4">071.ref4.txt</M>
+			<M ID="M5">071.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="72">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">072.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">072.ref1.txt</M>
+			<M ID="M2">072.ref2.txt</M>
+			<M ID="M3">072.ref3.txt</M>
+			<M ID="M4">072.ref4.txt</M>
+			<M ID="M5">072.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="73">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">073.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">073.ref1.txt</M>
+			<M ID="M2">073.ref2.txt</M>
+			<M ID="M3">073.ref3.txt</M>
+			<M ID="M4">073.ref4.txt</M>
+			<M ID="M5">073.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="74">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">074.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">074.ref1.txt</M>
+			<M ID="M2">074.ref2.txt</M>
+			<M ID="M3">074.ref3.txt</M>
+			<M ID="M4">074.ref4.txt</M>
+			<M ID="M5">074.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="75">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">075.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">075.ref1.txt</M>
+			<M ID="M2">075.ref2.txt</M>
+			<M ID="M3">075.ref3.txt</M>
+			<M ID="M4">075.ref4.txt</M>
+			<M ID="M5">075.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="76">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">076.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">076.ref1.txt</M>
+			<M ID="M2">076.ref2.txt</M>
+			<M ID="M3">076.ref3.txt</M>
+			<M ID="M4">076.ref4.txt</M>
+			<M ID="M5">076.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="77">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">077.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">077.ref1.txt</M>
+			<M ID="M2">077.ref2.txt</M>
+			<M ID="M3">077.ref3.txt</M>
+			<M ID="M4">077.ref4.txt</M>
+			<M ID="M5">077.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="78">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">078.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">078.ref1.txt</M>
+			<M ID="M2">078.ref2.txt</M>
+			<M ID="M3">078.ref3.txt</M>
+			<M ID="M4">078.ref4.txt</M>
+			<M ID="M5">078.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="79">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">079.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">079.ref1.txt</M>
+			<M ID="M2">079.ref2.txt</M>
+			<M ID="M3">079.ref3.txt</M>
+			<M ID="M4">079.ref4.txt</M>
+			<M ID="M5">079.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="80">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">080.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">080.ref1.txt</M>
+			<M ID="M2">080.ref2.txt</M>
+			<M ID="M3">080.ref3.txt</M>
+			<M ID="M4">080.ref4.txt</M>
+			<M ID="M5">080.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="81">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">081.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">081.ref1.txt</M>
+			<M ID="M2">081.ref2.txt</M>
+			<M ID="M3">081.ref3.txt</M>
+			<M ID="M4">081.ref4.txt</M>
+			<M ID="M5">081.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="82">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">082.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">082.ref1.txt</M>
+			<M ID="M2">082.ref2.txt</M>
+			<M ID="M3">082.ref3.txt</M>
+			<M ID="M4">082.ref4.txt</M>
+			<M ID="M5">082.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="83">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">083.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">083.ref1.txt</M>
+			<M ID="M2">083.ref2.txt</M>
+			<M ID="M3">083.ref3.txt</M>
+			<M ID="M4">083.ref4.txt</M>
+			<M ID="M5">083.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="84">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">084.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">084.ref1.txt</M>
+			<M ID="M2">084.ref2.txt</M>
+			<M ID="M3">084.ref3.txt</M>
+			<M ID="M4">084.ref4.txt</M>
+			<M ID="M5">084.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="85">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">085.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">085.ref1.txt</M>
+			<M ID="M2">085.ref2.txt</M>
+			<M ID="M3">085.ref3.txt</M>
+			<M ID="M4">085.ref4.txt</M>
+			<M ID="M5">085.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="86">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">086.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">086.ref1.txt</M>
+			<M ID="M2">086.ref2.txt</M>
+			<M ID="M3">086.ref3.txt</M>
+			<M ID="M4">086.ref4.txt</M>
+			<M ID="M5">086.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="87">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">087.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">087.ref1.txt</M>
+			<M ID="M2">087.ref2.txt</M>
+			<M ID="M3">087.ref3.txt</M>
+			<M ID="M4">087.ref4.txt</M>
+			<M ID="M5">087.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="88">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">088.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">088.ref1.txt</M>
+			<M ID="M2">088.ref2.txt</M>
+			<M ID="M3">088.ref3.txt</M>
+			<M ID="M4">088.ref4.txt</M>
+			<M ID="M5">088.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="89">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">089.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">089.ref1.txt</M>
+			<M ID="M2">089.ref2.txt</M>
+			<M ID="M3">089.ref3.txt</M>
+			<M ID="M4">089.ref4.txt</M>
+			<M ID="M5">089.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="90">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">090.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">090.ref1.txt</M>
+			<M ID="M2">090.ref2.txt</M>
+			<M ID="M3">090.ref3.txt</M>
+			<M ID="M4">090.ref4.txt</M>
+			<M ID="M5">090.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="91">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">091.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">091.ref1.txt</M>
+			<M ID="M2">091.ref2.txt</M>
+			<M ID="M3">091.ref3.txt</M>
+			<M ID="M4">091.ref4.txt</M>
+			<M ID="M5">091.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="92">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">092.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">092.ref1.txt</M>
+			<M ID="M2">092.ref2.txt</M>
+			<M ID="M3">092.ref3.txt</M>
+			<M ID="M4">092.ref4.txt</M>
+			<M ID="M5">092.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="93">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">093.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">093.ref1.txt</M>
+			<M ID="M2">093.ref2.txt</M>
+			<M ID="M3">093.ref3.txt</M>
+			<M ID="M4">093.ref4.txt</M>
+			<M ID="M5">093.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="94">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">094.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">094.ref1.txt</M>
+			<M ID="M2">094.ref2.txt</M>
+			<M ID="M3">094.ref3.txt</M>
+			<M ID="M4">094.ref4.txt</M>
+			<M ID="M5">094.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="95">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">095.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">095.ref1.txt</M>
+			<M ID="M2">095.ref2.txt</M>
+			<M ID="M3">095.ref3.txt</M>
+			<M ID="M4">095.ref4.txt</M>
+			<M ID="M5">095.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="96">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">096.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">096.ref1.txt</M>
+			<M ID="M2">096.ref2.txt</M>
+			<M ID="M3">096.ref3.txt</M>
+			<M ID="M4">096.ref4.txt</M>
+			<M ID="M5">096.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="97">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">097.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">097.ref1.txt</M>
+			<M ID="M2">097.ref2.txt</M>
+			<M ID="M3">097.ref3.txt</M>
+			<M ID="M4">097.ref4.txt</M>
+			<M ID="M5">097.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="98">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">098.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">098.ref1.txt</M>
+			<M ID="M2">098.ref2.txt</M>
+			<M ID="M3">098.ref3.txt</M>
+			<M ID="M4">098.ref4.txt</M>
+			<M ID="M5">098.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="99">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">099.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">099.ref1.txt</M>
+			<M ID="M2">099.ref2.txt</M>
+			<M ID="M3">099.ref3.txt</M>
+			<M ID="M4">099.ref4.txt</M>
+			<M ID="M5">099.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="100">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">100.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">100.ref1.txt</M>
+			<M ID="M2">100.ref2.txt</M>
+			<M ID="M3">100.ref3.txt</M>
+			<M ID="M4">100.ref4.txt</M>
+			<M ID="M5">100.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="101">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">101.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">101.ref1.txt</M>
+			<M ID="M2">101.ref2.txt</M>
+			<M ID="M3">101.ref3.txt</M>
+			<M ID="M4">101.ref4.txt</M>
+			<M ID="M5">101.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="102">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">102.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">102.ref1.txt</M>
+			<M ID="M2">102.ref2.txt</M>
+			<M ID="M3">102.ref3.txt</M>
+			<M ID="M4">102.ref4.txt</M>
+			<M ID="M5">102.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="103">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">103.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">103.ref1.txt</M>
+			<M ID="M2">103.ref2.txt</M>
+			<M ID="M3">103.ref3.txt</M>
+			<M ID="M4">103.ref4.txt</M>
+			<M ID="M5">103.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="104">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">104.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">104.ref1.txt</M>
+			<M ID="M2">104.ref2.txt</M>
+			<M ID="M3">104.ref3.txt</M>
+			<M ID="M4">104.ref4.txt</M>
+			<M ID="M5">104.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="105">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">105.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">105.ref1.txt</M>
+			<M ID="M2">105.ref2.txt</M>
+			<M ID="M3">105.ref3.txt</M>
+			<M ID="M4">105.ref4.txt</M>
+			<M ID="M5">105.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="106">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">106.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">106.ref1.txt</M>
+			<M ID="M2">106.ref2.txt</M>
+			<M ID="M3">106.ref3.txt</M>
+			<M ID="M4">106.ref4.txt</M>
+			<M ID="M5">106.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="107">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">107.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">107.ref1.txt</M>
+			<M ID="M2">107.ref2.txt</M>
+			<M ID="M3">107.ref3.txt</M>
+			<M ID="M4">107.ref4.txt</M>
+			<M ID="M5">107.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="108">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">108.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">108.ref1.txt</M>
+			<M ID="M2">108.ref2.txt</M>
+			<M ID="M3">108.ref3.txt</M>
+			<M ID="M4">108.ref4.txt</M>
+			<M ID="M5">108.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="109">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">109.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">109.ref1.txt</M>
+			<M ID="M2">109.ref2.txt</M>
+			<M ID="M3">109.ref3.txt</M>
+			<M ID="M4">109.ref4.txt</M>
+			<M ID="M5">109.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="110">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">110.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">110.ref1.txt</M>
+			<M ID="M2">110.ref2.txt</M>
+			<M ID="M3">110.ref3.txt</M>
+			<M ID="M4">110.ref4.txt</M>
+			<M ID="M5">110.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="111">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">111.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">111.ref1.txt</M>
+			<M ID="M2">111.ref2.txt</M>
+			<M ID="M3">111.ref3.txt</M>
+			<M ID="M4">111.ref4.txt</M>
+			<M ID="M5">111.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="112">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">112.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">112.ref1.txt</M>
+			<M ID="M2">112.ref2.txt</M>
+			<M ID="M3">112.ref3.txt</M>
+			<M ID="M4">112.ref4.txt</M>
+			<M ID="M5">112.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="113">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">113.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">113.ref1.txt</M>
+			<M ID="M2">113.ref2.txt</M>
+			<M ID="M3">113.ref3.txt</M>
+			<M ID="M4">113.ref4.txt</M>
+			<M ID="M5">113.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="114">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">114.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">114.ref1.txt</M>
+			<M ID="M2">114.ref2.txt</M>
+			<M ID="M3">114.ref3.txt</M>
+			<M ID="M4">114.ref4.txt</M>
+			<M ID="M5">114.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="115">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">115.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">115.ref1.txt</M>
+			<M ID="M2">115.ref2.txt</M>
+			<M ID="M3">115.ref3.txt</M>
+			<M ID="M4">115.ref4.txt</M>
+			<M ID="M5">115.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="116">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">116.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">116.ref1.txt</M>
+			<M ID="M2">116.ref2.txt</M>
+			<M ID="M3">116.ref3.txt</M>
+			<M ID="M4">116.ref4.txt</M>
+			<M ID="M5">116.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="117">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">117.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">117.ref1.txt</M>
+			<M ID="M2">117.ref2.txt</M>
+			<M ID="M3">117.ref3.txt</M>
+			<M ID="M4">117.ref4.txt</M>
+			<M ID="M5">117.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="118">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">118.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">118.ref1.txt</M>
+			<M ID="M2">118.ref2.txt</M>
+			<M ID="M3">118.ref3.txt</M>
+			<M ID="M4">118.ref4.txt</M>
+			<M ID="M5">118.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="119">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">119.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">119.ref1.txt</M>
+			<M ID="M2">119.ref2.txt</M>
+			<M ID="M3">119.ref3.txt</M>
+			<M ID="M4">119.ref4.txt</M>
+			<M ID="M5">119.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="120">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">120.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">120.ref1.txt</M>
+			<M ID="M2">120.ref2.txt</M>
+			<M ID="M3">120.ref3.txt</M>
+			<M ID="M4">120.ref4.txt</M>
+			<M ID="M5">120.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="121">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">121.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">121.ref1.txt</M>
+			<M ID="M2">121.ref2.txt</M>
+			<M ID="M3">121.ref3.txt</M>
+			<M ID="M4">121.ref4.txt</M>
+			<M ID="M5">121.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="122">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">122.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">122.ref1.txt</M>
+			<M ID="M2">122.ref2.txt</M>
+			<M ID="M3">122.ref3.txt</M>
+			<M ID="M4">122.ref4.txt</M>
+			<M ID="M5">122.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="123">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">123.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">123.ref1.txt</M>
+			<M ID="M2">123.ref2.txt</M>
+			<M ID="M3">123.ref3.txt</M>
+			<M ID="M4">123.ref4.txt</M>
+			<M ID="M5">123.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="124">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">124.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">124.ref1.txt</M>
+			<M ID="M2">124.ref2.txt</M>
+			<M ID="M3">124.ref3.txt</M>
+			<M ID="M4">124.ref4.txt</M>
+			<M ID="M5">124.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="125">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">125.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">125.ref1.txt</M>
+			<M ID="M2">125.ref2.txt</M>
+			<M ID="M3">125.ref3.txt</M>
+			<M ID="M4">125.ref4.txt</M>
+			<M ID="M5">125.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="126">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">126.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">126.ref1.txt</M>
+			<M ID="M2">126.ref2.txt</M>
+			<M ID="M3">126.ref3.txt</M>
+			<M ID="M4">126.ref4.txt</M>
+			<M ID="M5">126.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="127">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">127.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">127.ref1.txt</M>
+			<M ID="M2">127.ref2.txt</M>
+			<M ID="M3">127.ref3.txt</M>
+			<M ID="M4">127.ref4.txt</M>
+			<M ID="M5">127.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="128">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">128.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">128.ref1.txt</M>
+			<M ID="M2">128.ref2.txt</M>
+			<M ID="M3">128.ref3.txt</M>
+			<M ID="M4">128.ref4.txt</M>
+			<M ID="M5">128.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="129">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">129.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">129.ref1.txt</M>
+			<M ID="M2">129.ref2.txt</M>
+			<M ID="M3">129.ref3.txt</M>
+			<M ID="M4">129.ref4.txt</M>
+			<M ID="M5">129.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="130">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">130.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">130.ref1.txt</M>
+			<M ID="M2">130.ref2.txt</M>
+			<M ID="M3">130.ref3.txt</M>
+			<M ID="M4">130.ref4.txt</M>
+			<M ID="M5">130.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="131">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">131.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">131.ref1.txt</M>
+			<M ID="M2">131.ref2.txt</M>
+			<M ID="M3">131.ref3.txt</M>
+			<M ID="M4">131.ref4.txt</M>
+			<M ID="M5">131.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="132">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">132.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">132.ref1.txt</M>
+			<M ID="M2">132.ref2.txt</M>
+			<M ID="M3">132.ref3.txt</M>
+			<M ID="M4">132.ref4.txt</M>
+			<M ID="M5">132.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="133">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">133.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">133.ref1.txt</M>
+			<M ID="M2">133.ref2.txt</M>
+			<M ID="M3">133.ref3.txt</M>
+			<M ID="M4">133.ref4.txt</M>
+			<M ID="M5">133.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="134">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">134.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">134.ref1.txt</M>
+			<M ID="M2">134.ref2.txt</M>
+			<M ID="M3">134.ref3.txt</M>
+			<M ID="M4">134.ref4.txt</M>
+			<M ID="M5">134.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="135">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">135.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">135.ref1.txt</M>
+			<M ID="M2">135.ref2.txt</M>
+			<M ID="M3">135.ref3.txt</M>
+			<M ID="M4">135.ref4.txt</M>
+			<M ID="M5">135.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="136">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">136.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">136.ref1.txt</M>
+			<M ID="M2">136.ref2.txt</M>
+			<M ID="M3">136.ref3.txt</M>
+			<M ID="M4">136.ref4.txt</M>
+			<M ID="M5">136.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="137">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">137.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">137.ref1.txt</M>
+			<M ID="M2">137.ref2.txt</M>
+			<M ID="M3">137.ref3.txt</M>
+			<M ID="M4">137.ref4.txt</M>
+			<M ID="M5">137.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="138">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">138.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">138.ref1.txt</M>
+			<M ID="M2">138.ref2.txt</M>
+			<M ID="M3">138.ref3.txt</M>
+			<M ID="M4">138.ref4.txt</M>
+			<M ID="M5">138.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="139">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">139.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">139.ref1.txt</M>
+			<M ID="M2">139.ref2.txt</M>
+			<M ID="M3">139.ref3.txt</M>
+			<M ID="M4">139.ref4.txt</M>
+			<M ID="M5">139.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="140">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">140.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">140.ref1.txt</M>
+			<M ID="M2">140.ref2.txt</M>
+			<M ID="M3">140.ref3.txt</M>
+			<M ID="M4">140.ref4.txt</M>
+			<M ID="M5">140.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="141">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">141.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">141.ref1.txt</M>
+			<M ID="M2">141.ref2.txt</M>
+			<M ID="M3">141.ref3.txt</M>
+			<M ID="M4">141.ref4.txt</M>
+			<M ID="M5">141.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="142">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">142.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">142.ref1.txt</M>
+			<M ID="M2">142.ref2.txt</M>
+			<M ID="M3">142.ref3.txt</M>
+			<M ID="M4">142.ref4.txt</M>
+			<M ID="M5">142.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="143">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">143.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">143.ref1.txt</M>
+			<M ID="M2">143.ref2.txt</M>
+			<M ID="M3">143.ref3.txt</M>
+			<M ID="M4">143.ref4.txt</M>
+			<M ID="M5">143.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="144">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">144.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">144.ref1.txt</M>
+			<M ID="M2">144.ref2.txt</M>
+			<M ID="M3">144.ref3.txt</M>
+			<M ID="M4">144.ref4.txt</M>
+			<M ID="M5">144.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="145">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">145.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">145.ref1.txt</M>
+			<M ID="M2">145.ref2.txt</M>
+			<M ID="M3">145.ref3.txt</M>
+			<M ID="M4">145.ref4.txt</M>
+			<M ID="M5">145.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="146">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">146.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">146.ref1.txt</M>
+			<M ID="M2">146.ref2.txt</M>
+			<M ID="M3">146.ref3.txt</M>
+			<M ID="M4">146.ref4.txt</M>
+			<M ID="M5">146.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="147">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">147.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">147.ref1.txt</M>
+			<M ID="M2">147.ref2.txt</M>
+			<M ID="M3">147.ref3.txt</M>
+			<M ID="M4">147.ref4.txt</M>
+			<M ID="M5">147.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="148">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">148.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">148.ref1.txt</M>
+			<M ID="M2">148.ref2.txt</M>
+			<M ID="M3">148.ref3.txt</M>
+			<M ID="M4">148.ref4.txt</M>
+			<M ID="M5">148.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="149">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">149.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">149.ref1.txt</M>
+			<M ID="M2">149.ref2.txt</M>
+			<M ID="M3">149.ref3.txt</M>
+			<M ID="M4">149.ref4.txt</M>
+			<M ID="M5">149.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="150">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">150.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">150.ref1.txt</M>
+			<M ID="M2">150.ref2.txt</M>
+			<M ID="M3">150.ref3.txt</M>
+			<M ID="M4">150.ref4.txt</M>
+			<M ID="M5">150.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="151">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">151.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">151.ref1.txt</M>
+			<M ID="M2">151.ref2.txt</M>
+			<M ID="M3">151.ref3.txt</M>
+			<M ID="M4">151.ref4.txt</M>
+			<M ID="M5">151.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="152">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">152.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">152.ref1.txt</M>
+			<M ID="M2">152.ref2.txt</M>
+			<M ID="M3">152.ref3.txt</M>
+			<M ID="M4">152.ref4.txt</M>
+			<M ID="M5">152.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="153">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">153.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">153.ref1.txt</M>
+			<M ID="M2">153.ref2.txt</M>
+			<M ID="M3">153.ref3.txt</M>
+			<M ID="M4">153.ref4.txt</M>
+			<M ID="M5">153.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="154">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">154.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">154.ref1.txt</M>
+			<M ID="M2">154.ref2.txt</M>
+			<M ID="M3">154.ref3.txt</M>
+			<M ID="M4">154.ref4.txt</M>
+			<M ID="M5">154.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="155">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">155.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">155.ref1.txt</M>
+			<M ID="M2">155.ref2.txt</M>
+			<M ID="M3">155.ref3.txt</M>
+			<M ID="M4">155.ref4.txt</M>
+			<M ID="M5">155.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="156">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">156.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">156.ref1.txt</M>
+			<M ID="M2">156.ref2.txt</M>
+			<M ID="M3">156.ref3.txt</M>
+			<M ID="M4">156.ref4.txt</M>
+			<M ID="M5">156.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="157">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">157.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">157.ref1.txt</M>
+			<M ID="M2">157.ref2.txt</M>
+			<M ID="M3">157.ref3.txt</M>
+			<M ID="M4">157.ref4.txt</M>
+			<M ID="M5">157.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="158">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">158.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">158.ref1.txt</M>
+			<M ID="M2">158.ref2.txt</M>
+			<M ID="M3">158.ref3.txt</M>
+			<M ID="M4">158.ref4.txt</M>
+			<M ID="M5">158.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="159">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">159.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">159.ref1.txt</M>
+			<M ID="M2">159.ref2.txt</M>
+			<M ID="M3">159.ref3.txt</M>
+			<M ID="M4">159.ref4.txt</M>
+			<M ID="M5">159.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="160">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">160.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">160.ref1.txt</M>
+			<M ID="M2">160.ref2.txt</M>
+			<M ID="M3">160.ref3.txt</M>
+			<M ID="M4">160.ref4.txt</M>
+			<M ID="M5">160.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="161">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">161.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">161.ref1.txt</M>
+			<M ID="M2">161.ref2.txt</M>
+			<M ID="M3">161.ref3.txt</M>
+			<M ID="M4">161.ref4.txt</M>
+			<M ID="M5">161.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="162">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">162.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">162.ref1.txt</M>
+			<M ID="M2">162.ref2.txt</M>
+			<M ID="M3">162.ref3.txt</M>
+			<M ID="M4">162.ref4.txt</M>
+			<M ID="M5">162.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="163">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">163.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">163.ref1.txt</M>
+			<M ID="M2">163.ref2.txt</M>
+			<M ID="M3">163.ref3.txt</M>
+			<M ID="M4">163.ref4.txt</M>
+			<M ID="M5">163.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="164">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">164.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">164.ref1.txt</M>
+			<M ID="M2">164.ref2.txt</M>
+			<M ID="M3">164.ref3.txt</M>
+			<M ID="M4">164.ref4.txt</M>
+			<M ID="M5">164.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="165">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">165.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">165.ref1.txt</M>
+			<M ID="M2">165.ref2.txt</M>
+			<M ID="M3">165.ref3.txt</M>
+			<M ID="M4">165.ref4.txt</M>
+			<M ID="M5">165.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="166">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">166.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">166.ref1.txt</M>
+			<M ID="M2">166.ref2.txt</M>
+			<M ID="M3">166.ref3.txt</M>
+			<M ID="M4">166.ref4.txt</M>
+			<M ID="M5">166.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="167">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">167.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">167.ref1.txt</M>
+			<M ID="M2">167.ref2.txt</M>
+			<M ID="M3">167.ref3.txt</M>
+			<M ID="M4">167.ref4.txt</M>
+			<M ID="M5">167.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="168">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">168.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">168.ref1.txt</M>
+			<M ID="M2">168.ref2.txt</M>
+			<M ID="M3">168.ref3.txt</M>
+			<M ID="M4">168.ref4.txt</M>
+			<M ID="M5">168.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="169">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">169.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">169.ref1.txt</M>
+			<M ID="M2">169.ref2.txt</M>
+			<M ID="M3">169.ref3.txt</M>
+			<M ID="M4">169.ref4.txt</M>
+			<M ID="M5">169.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="170">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">170.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">170.ref1.txt</M>
+			<M ID="M2">170.ref2.txt</M>
+			<M ID="M3">170.ref3.txt</M>
+			<M ID="M4">170.ref4.txt</M>
+			<M ID="M5">170.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="171">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">171.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">171.ref1.txt</M>
+			<M ID="M2">171.ref2.txt</M>
+			<M ID="M3">171.ref3.txt</M>
+			<M ID="M4">171.ref4.txt</M>
+			<M ID="M5">171.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="172">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">172.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">172.ref1.txt</M>
+			<M ID="M2">172.ref2.txt</M>
+			<M ID="M3">172.ref3.txt</M>
+			<M ID="M4">172.ref4.txt</M>
+			<M ID="M5">172.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="173">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">173.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">173.ref1.txt</M>
+			<M ID="M2">173.ref2.txt</M>
+			<M ID="M3">173.ref3.txt</M>
+			<M ID="M4">173.ref4.txt</M>
+			<M ID="M5">173.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="174">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">174.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">174.ref1.txt</M>
+			<M ID="M2">174.ref2.txt</M>
+			<M ID="M3">174.ref3.txt</M>
+			<M ID="M4">174.ref4.txt</M>
+			<M ID="M5">174.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="175">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">175.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">175.ref1.txt</M>
+			<M ID="M2">175.ref2.txt</M>
+			<M ID="M3">175.ref3.txt</M>
+			<M ID="M4">175.ref4.txt</M>
+			<M ID="M5">175.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="176">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">176.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">176.ref1.txt</M>
+			<M ID="M2">176.ref2.txt</M>
+			<M ID="M3">176.ref3.txt</M>
+			<M ID="M4">176.ref4.txt</M>
+			<M ID="M5">176.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="177">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">177.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">177.ref1.txt</M>
+			<M ID="M2">177.ref2.txt</M>
+			<M ID="M3">177.ref3.txt</M>
+			<M ID="M4">177.ref4.txt</M>
+			<M ID="M5">177.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="178">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">178.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">178.ref1.txt</M>
+			<M ID="M2">178.ref2.txt</M>
+			<M ID="M3">178.ref3.txt</M>
+			<M ID="M4">178.ref4.txt</M>
+			<M ID="M5">178.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="179">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">179.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">179.ref1.txt</M>
+			<M ID="M2">179.ref2.txt</M>
+			<M ID="M3">179.ref3.txt</M>
+			<M ID="M4">179.ref4.txt</M>
+			<M ID="M5">179.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="180">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">180.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">180.ref1.txt</M>
+			<M ID="M2">180.ref2.txt</M>
+			<M ID="M3">180.ref3.txt</M>
+			<M ID="M4">180.ref4.txt</M>
+			<M ID="M5">180.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="181">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">181.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">181.ref1.txt</M>
+			<M ID="M2">181.ref2.txt</M>
+			<M ID="M3">181.ref3.txt</M>
+			<M ID="M4">181.ref4.txt</M>
+			<M ID="M5">181.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="182">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">182.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">182.ref1.txt</M>
+			<M ID="M2">182.ref2.txt</M>
+			<M ID="M3">182.ref3.txt</M>
+			<M ID="M4">182.ref4.txt</M>
+			<M ID="M5">182.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="183">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">183.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">183.ref1.txt</M>
+			<M ID="M2">183.ref2.txt</M>
+			<M ID="M3">183.ref3.txt</M>
+			<M ID="M4">183.ref4.txt</M>
+			<M ID="M5">183.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="184">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">184.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">184.ref1.txt</M>
+			<M ID="M2">184.ref2.txt</M>
+			<M ID="M3">184.ref3.txt</M>
+			<M ID="M4">184.ref4.txt</M>
+			<M ID="M5">184.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="185">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">185.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">185.ref1.txt</M>
+			<M ID="M2">185.ref2.txt</M>
+			<M ID="M3">185.ref3.txt</M>
+			<M ID="M4">185.ref4.txt</M>
+			<M ID="M5">185.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="186">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">186.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">186.ref1.txt</M>
+			<M ID="M2">186.ref2.txt</M>
+			<M ID="M3">186.ref3.txt</M>
+			<M ID="M4">186.ref4.txt</M>
+			<M ID="M5">186.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="187">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">187.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">187.ref1.txt</M>
+			<M ID="M2">187.ref2.txt</M>
+			<M ID="M3">187.ref3.txt</M>
+			<M ID="M4">187.ref4.txt</M>
+			<M ID="M5">187.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="188">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">188.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">188.ref1.txt</M>
+			<M ID="M2">188.ref2.txt</M>
+			<M ID="M3">188.ref3.txt</M>
+			<M ID="M4">188.ref4.txt</M>
+			<M ID="M5">188.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="189">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">189.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">189.ref1.txt</M>
+			<M ID="M2">189.ref2.txt</M>
+			<M ID="M3">189.ref3.txt</M>
+			<M ID="M4">189.ref4.txt</M>
+			<M ID="M5">189.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="190">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">190.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">190.ref1.txt</M>
+			<M ID="M2">190.ref2.txt</M>
+			<M ID="M3">190.ref3.txt</M>
+			<M ID="M4">190.ref4.txt</M>
+			<M ID="M5">190.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="191">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">191.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">191.ref1.txt</M>
+			<M ID="M2">191.ref2.txt</M>
+			<M ID="M3">191.ref3.txt</M>
+			<M ID="M4">191.ref4.txt</M>
+			<M ID="M5">191.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="192">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">192.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">192.ref1.txt</M>
+			<M ID="M2">192.ref2.txt</M>
+			<M ID="M3">192.ref3.txt</M>
+			<M ID="M4">192.ref4.txt</M>
+			<M ID="M5">192.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="193">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">193.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">193.ref1.txt</M>
+			<M ID="M2">193.ref2.txt</M>
+			<M ID="M3">193.ref3.txt</M>
+			<M ID="M4">193.ref4.txt</M>
+			<M ID="M5">193.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="194">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">194.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">194.ref1.txt</M>
+			<M ID="M2">194.ref2.txt</M>
+			<M ID="M3">194.ref3.txt</M>
+			<M ID="M4">194.ref4.txt</M>
+			<M ID="M5">194.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="195">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">195.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">195.ref1.txt</M>
+			<M ID="M2">195.ref2.txt</M>
+			<M ID="M3">195.ref3.txt</M>
+			<M ID="M4">195.ref4.txt</M>
+			<M ID="M5">195.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="196">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">196.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">196.ref1.txt</M>
+			<M ID="M2">196.ref2.txt</M>
+			<M ID="M3">196.ref3.txt</M>
+			<M ID="M4">196.ref4.txt</M>
+			<M ID="M5">196.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="197">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">197.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">197.ref1.txt</M>
+			<M ID="M2">197.ref2.txt</M>
+			<M ID="M3">197.ref3.txt</M>
+			<M ID="M4">197.ref4.txt</M>
+			<M ID="M5">197.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="198">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">198.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">198.ref1.txt</M>
+			<M ID="M2">198.ref2.txt</M>
+			<M ID="M3">198.ref3.txt</M>
+			<M ID="M4">198.ref4.txt</M>
+			<M ID="M5">198.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="199">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">199.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">199.ref1.txt</M>
+			<M ID="M2">199.ref2.txt</M>
+			<M ID="M3">199.ref3.txt</M>
+			<M ID="M4">199.ref4.txt</M>
+			<M ID="M5">199.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="200">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">200.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">200.ref1.txt</M>
+			<M ID="M2">200.ref2.txt</M>
+			<M ID="M3">200.ref3.txt</M>
+			<M ID="M4">200.ref4.txt</M>
+			<M ID="M5">200.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="201">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">201.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">201.ref1.txt</M>
+			<M ID="M2">201.ref2.txt</M>
+			<M ID="M3">201.ref3.txt</M>
+			<M ID="M4">201.ref4.txt</M>
+			<M ID="M5">201.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="202">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">202.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">202.ref1.txt</M>
+			<M ID="M2">202.ref2.txt</M>
+			<M ID="M3">202.ref3.txt</M>
+			<M ID="M4">202.ref4.txt</M>
+			<M ID="M5">202.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="203">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">203.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">203.ref1.txt</M>
+			<M ID="M2">203.ref2.txt</M>
+			<M ID="M3">203.ref3.txt</M>
+			<M ID="M4">203.ref4.txt</M>
+			<M ID="M5">203.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="204">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">204.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">204.ref1.txt</M>
+			<M ID="M2">204.ref2.txt</M>
+			<M ID="M3">204.ref3.txt</M>
+			<M ID="M4">204.ref4.txt</M>
+			<M ID="M5">204.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="205">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">205.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">205.ref1.txt</M>
+			<M ID="M2">205.ref2.txt</M>
+			<M ID="M3">205.ref3.txt</M>
+			<M ID="M4">205.ref4.txt</M>
+			<M ID="M5">205.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="206">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">206.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">206.ref1.txt</M>
+			<M ID="M2">206.ref2.txt</M>
+			<M ID="M3">206.ref3.txt</M>
+			<M ID="M4">206.ref4.txt</M>
+			<M ID="M5">206.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="207">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">207.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">207.ref1.txt</M>
+			<M ID="M2">207.ref2.txt</M>
+			<M ID="M3">207.ref3.txt</M>
+			<M ID="M4">207.ref4.txt</M>
+			<M ID="M5">207.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="208">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">208.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">208.ref1.txt</M>
+			<M ID="M2">208.ref2.txt</M>
+			<M ID="M3">208.ref3.txt</M>
+			<M ID="M4">208.ref4.txt</M>
+			<M ID="M5">208.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="209">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">209.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">209.ref1.txt</M>
+			<M ID="M2">209.ref2.txt</M>
+			<M ID="M3">209.ref3.txt</M>
+			<M ID="M4">209.ref4.txt</M>
+			<M ID="M5">209.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="210">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">210.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">210.ref1.txt</M>
+			<M ID="M2">210.ref2.txt</M>
+			<M ID="M3">210.ref3.txt</M>
+			<M ID="M4">210.ref4.txt</M>
+			<M ID="M5">210.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="211">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">211.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">211.ref1.txt</M>
+			<M ID="M2">211.ref2.txt</M>
+			<M ID="M3">211.ref3.txt</M>
+			<M ID="M4">211.ref4.txt</M>
+			<M ID="M5">211.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="212">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">212.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">212.ref1.txt</M>
+			<M ID="M2">212.ref2.txt</M>
+			<M ID="M3">212.ref3.txt</M>
+			<M ID="M4">212.ref4.txt</M>
+			<M ID="M5">212.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="213">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">213.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">213.ref1.txt</M>
+			<M ID="M2">213.ref2.txt</M>
+			<M ID="M3">213.ref3.txt</M>
+			<M ID="M4">213.ref4.txt</M>
+			<M ID="M5">213.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="214">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">214.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">214.ref1.txt</M>
+			<M ID="M2">214.ref2.txt</M>
+			<M ID="M3">214.ref3.txt</M>
+			<M ID="M4">214.ref4.txt</M>
+			<M ID="M5">214.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="215">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">215.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">215.ref1.txt</M>
+			<M ID="M2">215.ref2.txt</M>
+			<M ID="M3">215.ref3.txt</M>
+			<M ID="M4">215.ref4.txt</M>
+			<M ID="M5">215.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="216">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">216.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">216.ref1.txt</M>
+			<M ID="M2">216.ref2.txt</M>
+			<M ID="M3">216.ref3.txt</M>
+			<M ID="M4">216.ref4.txt</M>
+			<M ID="M5">216.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="217">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">217.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">217.ref1.txt</M>
+			<M ID="M2">217.ref2.txt</M>
+			<M ID="M3">217.ref3.txt</M>
+			<M ID="M4">217.ref4.txt</M>
+			<M ID="M5">217.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="218">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">218.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">218.ref1.txt</M>
+			<M ID="M2">218.ref2.txt</M>
+			<M ID="M3">218.ref3.txt</M>
+			<M ID="M4">218.ref4.txt</M>
+			<M ID="M5">218.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="219">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">219.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">219.ref1.txt</M>
+			<M ID="M2">219.ref2.txt</M>
+			<M ID="M3">219.ref3.txt</M>
+			<M ID="M4">219.ref4.txt</M>
+			<M ID="M5">219.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="220">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">220.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">220.ref1.txt</M>
+			<M ID="M2">220.ref2.txt</M>
+			<M ID="M3">220.ref3.txt</M>
+			<M ID="M4">220.ref4.txt</M>
+			<M ID="M5">220.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="221">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">221.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">221.ref1.txt</M>
+			<M ID="M2">221.ref2.txt</M>
+			<M ID="M3">221.ref3.txt</M>
+			<M ID="M4">221.ref4.txt</M>
+			<M ID="M5">221.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="222">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">222.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">222.ref1.txt</M>
+			<M ID="M2">222.ref2.txt</M>
+			<M ID="M3">222.ref3.txt</M>
+			<M ID="M4">222.ref4.txt</M>
+			<M ID="M5">222.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="223">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">223.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">223.ref1.txt</M>
+			<M ID="M2">223.ref2.txt</M>
+			<M ID="M3">223.ref3.txt</M>
+			<M ID="M4">223.ref4.txt</M>
+			<M ID="M5">223.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="224">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">224.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">224.ref1.txt</M>
+			<M ID="M2">224.ref2.txt</M>
+			<M ID="M3">224.ref3.txt</M>
+			<M ID="M4">224.ref4.txt</M>
+			<M ID="M5">224.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="225">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">225.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">225.ref1.txt</M>
+			<M ID="M2">225.ref2.txt</M>
+			<M ID="M3">225.ref3.txt</M>
+			<M ID="M4">225.ref4.txt</M>
+			<M ID="M5">225.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="226">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">226.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">226.ref1.txt</M>
+			<M ID="M2">226.ref2.txt</M>
+			<M ID="M3">226.ref3.txt</M>
+			<M ID="M4">226.ref4.txt</M>
+			<M ID="M5">226.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="227">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">227.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">227.ref1.txt</M>
+			<M ID="M2">227.ref2.txt</M>
+			<M ID="M3">227.ref3.txt</M>
+			<M ID="M4">227.ref4.txt</M>
+			<M ID="M5">227.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="228">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">228.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">228.ref1.txt</M>
+			<M ID="M2">228.ref2.txt</M>
+			<M ID="M3">228.ref3.txt</M>
+			<M ID="M4">228.ref4.txt</M>
+			<M ID="M5">228.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="229">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">229.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">229.ref1.txt</M>
+			<M ID="M2">229.ref2.txt</M>
+			<M ID="M3">229.ref3.txt</M>
+			<M ID="M4">229.ref4.txt</M>
+			<M ID="M5">229.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="230">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">230.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">230.ref1.txt</M>
+			<M ID="M2">230.ref2.txt</M>
+			<M ID="M3">230.ref3.txt</M>
+			<M ID="M4">230.ref4.txt</M>
+			<M ID="M5">230.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="231">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">231.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">231.ref1.txt</M>
+			<M ID="M2">231.ref2.txt</M>
+			<M ID="M3">231.ref3.txt</M>
+			<M ID="M4">231.ref4.txt</M>
+			<M ID="M5">231.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="232">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">232.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">232.ref1.txt</M>
+			<M ID="M2">232.ref2.txt</M>
+			<M ID="M3">232.ref3.txt</M>
+			<M ID="M4">232.ref4.txt</M>
+			<M ID="M5">232.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="233">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">233.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">233.ref1.txt</M>
+			<M ID="M2">233.ref2.txt</M>
+			<M ID="M3">233.ref3.txt</M>
+			<M ID="M4">233.ref4.txt</M>
+			<M ID="M5">233.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="234">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">234.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">234.ref1.txt</M>
+			<M ID="M2">234.ref2.txt</M>
+			<M ID="M3">234.ref3.txt</M>
+			<M ID="M4">234.ref4.txt</M>
+			<M ID="M5">234.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="235">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">235.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">235.ref1.txt</M>
+			<M ID="M2">235.ref2.txt</M>
+			<M ID="M3">235.ref3.txt</M>
+			<M ID="M4">235.ref4.txt</M>
+			<M ID="M5">235.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="236">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">236.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">236.ref1.txt</M>
+			<M ID="M2">236.ref2.txt</M>
+			<M ID="M3">236.ref3.txt</M>
+			<M ID="M4">236.ref4.txt</M>
+			<M ID="M5">236.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="237">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">237.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">237.ref1.txt</M>
+			<M ID="M2">237.ref2.txt</M>
+			<M ID="M3">237.ref3.txt</M>
+			<M ID="M4">237.ref4.txt</M>
+			<M ID="M5">237.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="238">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">238.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">238.ref1.txt</M>
+			<M ID="M2">238.ref2.txt</M>
+			<M ID="M3">238.ref3.txt</M>
+			<M ID="M4">238.ref4.txt</M>
+			<M ID="M5">238.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="239">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">239.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">239.ref1.txt</M>
+			<M ID="M2">239.ref2.txt</M>
+			<M ID="M3">239.ref3.txt</M>
+			<M ID="M4">239.ref4.txt</M>
+			<M ID="M5">239.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="240">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">240.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">240.ref1.txt</M>
+			<M ID="M2">240.ref2.txt</M>
+			<M ID="M3">240.ref3.txt</M>
+			<M ID="M4">240.ref4.txt</M>
+			<M ID="M5">240.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="241">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">241.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">241.ref1.txt</M>
+			<M ID="M2">241.ref2.txt</M>
+			<M ID="M3">241.ref3.txt</M>
+			<M ID="M4">241.ref4.txt</M>
+			<M ID="M5">241.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="242">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">242.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">242.ref1.txt</M>
+			<M ID="M2">242.ref2.txt</M>
+			<M ID="M3">242.ref3.txt</M>
+			<M ID="M4">242.ref4.txt</M>
+			<M ID="M5">242.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="243">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">243.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">243.ref1.txt</M>
+			<M ID="M2">243.ref2.txt</M>
+			<M ID="M3">243.ref3.txt</M>
+			<M ID="M4">243.ref4.txt</M>
+			<M ID="M5">243.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="244">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">244.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">244.ref1.txt</M>
+			<M ID="M2">244.ref2.txt</M>
+			<M ID="M3">244.ref3.txt</M>
+			<M ID="M4">244.ref4.txt</M>
+			<M ID="M5">244.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="245">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">245.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">245.ref1.txt</M>
+			<M ID="M2">245.ref2.txt</M>
+			<M ID="M3">245.ref3.txt</M>
+			<M ID="M4">245.ref4.txt</M>
+			<M ID="M5">245.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="246">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">246.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">246.ref1.txt</M>
+			<M ID="M2">246.ref2.txt</M>
+			<M ID="M3">246.ref3.txt</M>
+			<M ID="M4">246.ref4.txt</M>
+			<M ID="M5">246.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="247">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">247.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">247.ref1.txt</M>
+			<M ID="M2">247.ref2.txt</M>
+			<M ID="M3">247.ref3.txt</M>
+			<M ID="M4">247.ref4.txt</M>
+			<M ID="M5">247.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="248">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">248.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">248.ref1.txt</M>
+			<M ID="M2">248.ref2.txt</M>
+			<M ID="M3">248.ref3.txt</M>
+			<M ID="M4">248.ref4.txt</M>
+			<M ID="M5">248.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="249">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">249.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">249.ref1.txt</M>
+			<M ID="M2">249.ref2.txt</M>
+			<M ID="M3">249.ref3.txt</M>
+			<M ID="M4">249.ref4.txt</M>
+			<M ID="M5">249.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="250">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">250.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">250.ref1.txt</M>
+			<M ID="M2">250.ref2.txt</M>
+			<M ID="M3">250.ref3.txt</M>
+			<M ID="M4">250.ref4.txt</M>
+			<M ID="M5">250.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="251">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">251.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">251.ref1.txt</M>
+			<M ID="M2">251.ref2.txt</M>
+			<M ID="M3">251.ref3.txt</M>
+			<M ID="M4">251.ref4.txt</M>
+			<M ID="M5">251.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="252">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">252.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">252.ref1.txt</M>
+			<M ID="M2">252.ref2.txt</M>
+			<M ID="M3">252.ref3.txt</M>
+			<M ID="M4">252.ref4.txt</M>
+			<M ID="M5">252.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="253">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">253.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">253.ref1.txt</M>
+			<M ID="M2">253.ref2.txt</M>
+			<M ID="M3">253.ref3.txt</M>
+			<M ID="M4">253.ref4.txt</M>
+			<M ID="M5">253.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="254">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">254.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">254.ref1.txt</M>
+			<M ID="M2">254.ref2.txt</M>
+			<M ID="M3">254.ref3.txt</M>
+			<M ID="M4">254.ref4.txt</M>
+			<M ID="M5">254.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="255">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">255.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">255.ref1.txt</M>
+			<M ID="M2">255.ref2.txt</M>
+			<M ID="M3">255.ref3.txt</M>
+			<M ID="M4">255.ref4.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="256">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">256.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">256.ref1.txt</M>
+			<M ID="M2">256.ref2.txt</M>
+			<M ID="M3">256.ref3.txt</M>
+			<M ID="M4">256.ref4.txt</M>
+			<M ID="M5">256.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="257">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">257.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">257.ref1.txt</M>
+			<M ID="M2">257.ref2.txt</M>
+			<M ID="M3">257.ref3.txt</M>
+			<M ID="M4">257.ref4.txt</M>
+			<M ID="M5">257.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="258">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">258.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">258.ref1.txt</M>
+			<M ID="M2">258.ref2.txt</M>
+			<M ID="M3">258.ref3.txt</M>
+			<M ID="M4">258.ref4.txt</M>
+			<M ID="M5">258.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="259">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">259.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">259.ref1.txt</M>
+			<M ID="M2">259.ref2.txt</M>
+			<M ID="M3">259.ref3.txt</M>
+			<M ID="M4">259.ref4.txt</M>
+			<M ID="M5">259.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="260">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">260.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">260.ref1.txt</M>
+			<M ID="M2">260.ref2.txt</M>
+			<M ID="M3">260.ref3.txt</M>
+			<M ID="M4">260.ref4.txt</M>
+			<M ID="M5">260.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="261">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">261.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">261.ref1.txt</M>
+			<M ID="M2">261.ref2.txt</M>
+			<M ID="M3">261.ref3.txt</M>
+			<M ID="M4">261.ref4.txt</M>
+			<M ID="M5">261.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="262">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">262.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">262.ref1.txt</M>
+			<M ID="M2">262.ref2.txt</M>
+			<M ID="M3">262.ref3.txt</M>
+			<M ID="M4">262.ref4.txt</M>
+			<M ID="M5">262.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="263">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">263.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">263.ref1.txt</M>
+			<M ID="M2">263.ref2.txt</M>
+			<M ID="M3">263.ref3.txt</M>
+			<M ID="M4">263.ref4.txt</M>
+			<M ID="M5">263.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="264">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">264.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">264.ref1.txt</M>
+			<M ID="M2">264.ref2.txt</M>
+			<M ID="M3">264.ref3.txt</M>
+			<M ID="M4">264.ref4.txt</M>
+			<M ID="M5">264.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="265">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">265.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">265.ref1.txt</M>
+			<M ID="M2">265.ref2.txt</M>
+			<M ID="M3">265.ref3.txt</M>
+			<M ID="M4">265.ref4.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="266">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">266.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">266.ref1.txt</M>
+			<M ID="M2">266.ref2.txt</M>
+			<M ID="M3">266.ref3.txt</M>
+			<M ID="M4">266.ref4.txt</M>
+			<M ID="M5">266.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="267">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">267.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">267.ref1.txt</M>
+			<M ID="M2">267.ref2.txt</M>
+			<M ID="M3">267.ref3.txt</M>
+			<M ID="M4">267.ref4.txt</M>
+			<M ID="M5">267.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="268">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">268.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">268.ref1.txt</M>
+			<M ID="M2">268.ref2.txt</M>
+			<M ID="M3">268.ref3.txt</M>
+			<M ID="M4">268.ref4.txt</M>
+			<M ID="M5">268.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="269">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">269.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">269.ref1.txt</M>
+			<M ID="M2">269.ref2.txt</M>
+			<M ID="M3">269.ref3.txt</M>
+			<M ID="M4">269.ref4.txt</M>
+			<M ID="M5">269.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="270">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">270.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">270.ref1.txt</M>
+			<M ID="M2">270.ref2.txt</M>
+			<M ID="M3">270.ref3.txt</M>
+			<M ID="M4">270.ref4.txt</M>
+			<M ID="M5">270.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="271">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">271.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">271.ref1.txt</M>
+			<M ID="M2">271.ref2.txt</M>
+			<M ID="M3">271.ref3.txt</M>
+			<M ID="M4">271.ref4.txt</M>
+			<M ID="M5">271.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="272">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">272.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">272.ref1.txt</M>
+			<M ID="M2">272.ref2.txt</M>
+			<M ID="M3">272.ref3.txt</M>
+			<M ID="M4">272.ref4.txt</M>
+			<M ID="M5">272.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="273">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">273.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">273.ref1.txt</M>
+			<M ID="M2">273.ref2.txt</M>
+			<M ID="M3">273.ref3.txt</M>
+			<M ID="M4">273.ref4.txt</M>
+			<M ID="M5">273.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="274">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">274.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">274.ref1.txt</M>
+			<M ID="M2">274.ref2.txt</M>
+			<M ID="M3">274.ref3.txt</M>
+			<M ID="M4">274.ref4.txt</M>
+			<M ID="M5">274.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="275">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">275.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">275.ref1.txt</M>
+			<M ID="M2">275.ref2.txt</M>
+			<M ID="M3">275.ref3.txt</M>
+			<M ID="M4">275.ref4.txt</M>
+			<M ID="M5">275.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="276">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">276.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">276.ref1.txt</M>
+			<M ID="M2">276.ref2.txt</M>
+			<M ID="M3">276.ref3.txt</M>
+			<M ID="M4">276.ref4.txt</M>
+			<M ID="M5">276.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="277">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">277.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">277.ref1.txt</M>
+			<M ID="M2">277.ref2.txt</M>
+			<M ID="M3">277.ref3.txt</M>
+			<M ID="M4">277.ref4.txt</M>
+			<M ID="M5">277.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="278">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">278.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">278.ref1.txt</M>
+			<M ID="M2">278.ref2.txt</M>
+			<M ID="M3">278.ref3.txt</M>
+			<M ID="M4">278.ref4.txt</M>
+			<M ID="M5">278.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="279">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">279.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">279.ref1.txt</M>
+			<M ID="M2">279.ref2.txt</M>
+			<M ID="M3">279.ref3.txt</M>
+			<M ID="M4">279.ref4.txt</M>
+			<M ID="M5">279.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="280">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">280.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">280.ref1.txt</M>
+			<M ID="M2">280.ref2.txt</M>
+			<M ID="M3">280.ref3.txt</M>
+			<M ID="M4">280.ref4.txt</M>
+			<M ID="M5">280.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="281">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">281.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">281.ref1.txt</M>
+			<M ID="M2">281.ref2.txt</M>
+			<M ID="M3">281.ref3.txt</M>
+			<M ID="M4">281.ref4.txt</M>
+			<M ID="M5">281.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="282">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">282.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">282.ref1.txt</M>
+			<M ID="M2">282.ref2.txt</M>
+			<M ID="M3">282.ref3.txt</M>
+			<M ID="M4">282.ref4.txt</M>
+			<M ID="M5">282.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="283">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">283.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">283.ref1.txt</M>
+			<M ID="M2">283.ref2.txt</M>
+			<M ID="M3">283.ref3.txt</M>
+			<M ID="M4">283.ref4.txt</M>
+			<M ID="M5">283.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="284">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">284.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">284.ref1.txt</M>
+			<M ID="M2">284.ref2.txt</M>
+			<M ID="M3">284.ref3.txt</M>
+			<M ID="M4">284.ref4.txt</M>
+			<M ID="M5">284.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="285">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">285.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">285.ref1.txt</M>
+			<M ID="M2">285.ref2.txt</M>
+			<M ID="M3">285.ref3.txt</M>
+			<M ID="M4">285.ref4.txt</M>
+			<M ID="M5">285.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="286">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">286.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">286.ref1.txt</M>
+			<M ID="M2">286.ref2.txt</M>
+			<M ID="M3">286.ref3.txt</M>
+			<M ID="M4">286.ref4.txt</M>
+			<M ID="M5">286.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="287">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">287.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">287.ref1.txt</M>
+			<M ID="M2">287.ref2.txt</M>
+			<M ID="M3">287.ref3.txt</M>
+			<M ID="M4">287.ref4.txt</M>
+			<M ID="M5">287.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="288">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">288.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">288.ref1.txt</M>
+			<M ID="M2">288.ref2.txt</M>
+			<M ID="M3">288.ref3.txt</M>
+			<M ID="M4">288.ref4.txt</M>
+			<M ID="M5">288.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="289">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">289.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">289.ref1.txt</M>
+			<M ID="M2">289.ref2.txt</M>
+			<M ID="M3">289.ref3.txt</M>
+			<M ID="M4">289.ref4.txt</M>
+			<M ID="M5">289.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="290">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">290.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">290.ref1.txt</M>
+			<M ID="M2">290.ref2.txt</M>
+			<M ID="M3">290.ref3.txt</M>
+			<M ID="M4">290.ref4.txt</M>
+			<M ID="M5">290.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="291">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">291.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">291.ref1.txt</M>
+			<M ID="M2">291.ref2.txt</M>
+			<M ID="M3">291.ref3.txt</M>
+			<M ID="M4">291.ref4.txt</M>
+			<M ID="M5">291.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="292">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">292.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">292.ref1.txt</M>
+			<M ID="M2">292.ref2.txt</M>
+			<M ID="M3">292.ref3.txt</M>
+			<M ID="M4">292.ref4.txt</M>
+			<M ID="M5">292.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="293">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">293.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">293.ref1.txt</M>
+			<M ID="M2">293.ref2.txt</M>
+			<M ID="M3">293.ref3.txt</M>
+			<M ID="M4">293.ref4.txt</M>
+			<M ID="M5">293.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="294">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">294.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">294.ref1.txt</M>
+			<M ID="M2">294.ref2.txt</M>
+			<M ID="M3">294.ref3.txt</M>
+			<M ID="M4">294.ref4.txt</M>
+			<M ID="M5">294.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="295">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">295.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">295.ref1.txt</M>
+			<M ID="M2">295.ref2.txt</M>
+			<M ID="M3">295.ref3.txt</M>
+			<M ID="M4">295.ref4.txt</M>
+			<M ID="M5">295.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="296">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">296.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">296.ref1.txt</M>
+			<M ID="M2">296.ref2.txt</M>
+			<M ID="M3">296.ref3.txt</M>
+			<M ID="M4">296.ref4.txt</M>
+			<M ID="M5">296.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="297">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">297.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">297.ref1.txt</M>
+			<M ID="M2">297.ref2.txt</M>
+			<M ID="M3">297.ref3.txt</M>
+			<M ID="M4">297.ref4.txt</M>
+			<M ID="M5">297.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="298">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">298.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">298.ref1.txt</M>
+			<M ID="M2">298.ref2.txt</M>
+			<M ID="M3">298.ref3.txt</M>
+			<M ID="M4">298.ref4.txt</M>
+			<M ID="M5">298.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="299">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">299.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">299.ref1.txt</M>
+			<M ID="M2">299.ref2.txt</M>
+			<M ID="M3">299.ref3.txt</M>
+			<M ID="M4">299.ref4.txt</M>
+			<M ID="M5">299.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="300">
+		<PEER-ROOT>Fusion_Corpus_AMT/system</PEER-ROOT>
+		<MODEL-ROOT>Fusion_Corpus_AMT/Intersection</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+		<PEERS>
+			<P ID="P1">300.sys.txt</P>
+		</PEERS>
+		<MODELS>
+			<M ID="M1">300.ref1.txt</M>
+			<M ID="M2">300.ref2.txt</M>
+			<M ID="M3">300.ref3.txt</M>
+			<M ID="M4">300.ref4.txt</M>
+			<M ID="M5">300.ref5.txt</M>
+		</MODELS>
+	</EVAL>
+</ROUGE-EVAL>
