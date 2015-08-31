@@ -382,7 +382,7 @@ def re_rank_path_use_frequent_words(available_sentences_nodes, lst_frequent_word
         # path[0] += path[0] + ((i_c / (1 * len(lst_frequent_words))) * abs(path[0]))
         # path[0] *= 1 - (i_c / (len(lst_frequent_words) + 1))
         # new_path_weight = path[0] * (1 - (i_c / (len(lst_frequent_words) + 1)))
-        new_path_weight = path[0] * (1 - (i_c / (len(lst_frequent_words))))
+        new_path_weight = path[0] * (1 - (i_c / (len(lst_frequent_words) + 1)))
         path[0] = [path[0], new_path_weight]
 
 
